@@ -1,0 +1,672 @@
+[2026-06-05 09:13:15] [WARNING] [payment-service] Response time 1564ms exceeds threshold
+[2026-06-05 09:13:53] [INFO] [payment-service] User u8412 logged in
+[2026-06-05 09:14:47] [WARNING] [payment-service] Rate limit approaching for client u4073
+[2026-06-05 09:15:12] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:16:11] [ERROR] [payment-service] Database connection timeout after 5506ms
+[2026-06-05 09:16:57] [WARNING] [payment-service] Deprecated endpoint called by u8762
+[2026-06-05 09:17:51] [CRITICAL] [payment-service] All DB replicas unreachable
+[2026-06-05 09:18:07] [INFO] [payment-service] Health check passed
+[2026-06-05 09:18:20] [ERROR] [payment-service] Database connection timeout after 7509ms
+[2026-06-05 09:18:50] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:19:04] [INFO] [payment-service] Request processed successfully in 749ms
+[2026-06-05 09:19:55] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:20:38] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:21:10] [INFO] [payment-service] Health check passed
+[2026-06-05 09:21:58] [WARNING] [payment-service] Deprecated endpoint called by u3570
+[2026-06-05 09:22:54] [WARNING] [payment-service] Memory usage at 79%
+[2026-06-05 09:23:43] [INFO] [payment-service] Request processed successfully in 4192ms
+[2026-06-05 09:23:54] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:23:59] [INFO] [payment-service] User u3675 logged in
+[2026-06-05 09:24:11] [INFO] [payment-service] User u8538 logged in
+[2026-06-05 09:25:11] [INFO] [payment-service] Health check passed
+[2026-06-05 09:25:55] [WARNING] [payment-service] Deprecated endpoint called by u6007
+[2026-06-05 09:26:46] [INFO] [payment-service] Request processed successfully in 5468ms
+[2026-06-05 09:27:08] [INFO] [payment-service] Request processed successfully in 642ms
+[2026-06-05 09:27:40] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:27:53] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:28:45] [INFO] [payment-service] User u7720 logged in
+[2026-06-05 09:29:36] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:30:09] [INFO] [payment-service] Request processed successfully in 6053ms
+[2026-06-05 09:30:52] [INFO] [payment-service] User u2559 logged in
+[2026-06-05 09:31:36] [WARNING] [payment-service] Response time 5229ms exceeds threshold
+[2026-06-05 09:31:51] [INFO] [payment-service] Request processed successfully in 8604ms
+[2026-06-05 09:32:31] [CRITICAL] [payment-service] Service crashed: out of memory
+[2026-06-05 09:33:18] [INFO] [payment-service] Request processed successfully in 2568ms
+[2026-06-05 09:34:09] [WARNING] [payment-service] Memory usage at 70%
+[2026-06-05 09:34:34] [WARNING] [payment-service] Deprecated endpoint called by u6626
+[2026-06-05 09:34:50] [INFO] [payment-service] Cache hit for key=cache:21
+[2026-06-05 09:35:10] [WARNING] [payment-service] Retry attempt 3 for downstream call
+[2026-06-05 09:35:22] [INFO] [payment-service] Health check passed
+[2026-06-05 09:36:21] [INFO] [payment-service] User u2345 logged in
+[2026-06-05 09:37:19] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:38:04] [INFO] [payment-service] Health check passed
+[2026-06-05 09:38:45] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:39:35] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:40:03] [INFO] [payment-service] Cache hit for key=cache:64
+[2026-06-05 09:40:45] [INFO] [payment-service] Cache hit for key=cache:56
+[2026-06-05 09:41:17] [WARNING] [payment-service] Memory usage at 77%
+[2026-06-05 09:41:32] [INFO] [payment-service] Cache hit for key=cache:3
+[2026-06-05 09:42:20] [INFO] [payment-service] Request processed successfully in 7079ms
+[2026-06-05 09:42:56] [INFO] [payment-service] Request processed successfully in 3627ms
+[2026-06-05 09:43:32] [INFO] [payment-service] Request processed successfully in 3115ms
+[2026-06-05 09:44:29] [INFO] [payment-service] User u1191 logged in
+[2026-06-05 09:45:05] [WARNING] [payment-service] Retry attempt 5 for downstream call
+[2026-06-05 09:46:04] [INFO] [payment-service] Request processed successfully in 5640ms
+[2026-06-05 09:46:27] [INFO] [payment-service] Cache hit for key=cache:99
+[2026-06-05 09:46:50] [INFO] [payment-service] Request processed successfully in 563ms
+[2026-06-05 09:47:26] [INFO] [payment-service] Request processed successfully in 4101ms
+[2026-06-05 09:47:58] [WARNING] [payment-service] Rate limit approaching for client u3347
+[2026-06-05 09:48:28] [INFO] [payment-service] Cache hit for key=cache:21
+[2026-06-05 09:48:38] [INFO] [payment-service] User u7464 logged in
+[2026-06-05 09:49:30] [WARNING] [payment-service] Deprecated endpoint called by u9961
+[2026-06-05 09:49:42] [ERROR] [payment-service] Database connection timeout after 1537ms
+[2026-06-05 09:49:51] [WARNING] [payment-service] Memory usage at 73%
+[2026-06-05 09:50:09] [WARNING] [payment-service] Deprecated endpoint called by u5840
+[2026-06-05 09:50:18] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:50:43] [INFO] [payment-service] Request processed successfully in 6099ms
+[2026-06-05 09:51:06] [WARNING] [payment-service] Rate limit approaching for client u3918
+[2026-06-05 09:52:02] [ERROR] [payment-service] Authentication failed for user u9550: invalid token
+[2026-06-05 09:52:29] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:53:19] [WARNING] [payment-service] Response time 7578ms exceeds threshold
+[2026-06-05 09:54:17] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:54:44] [INFO] [payment-service] User u8825 logged in
+[2026-06-05 09:54:56] [INFO] [payment-service] Health check passed
+[2026-06-05 09:55:04] [INFO] [payment-service] Health check passed
+[2026-06-05 09:55:11] [WARNING] [payment-service] Memory usage at 96%
+[2026-06-05 09:55:16] [INFO] [payment-service] Request processed successfully in 8835ms
+[2026-06-05 09:55:53] [WARNING] [payment-service] Memory usage at 75%
+[2026-06-05 09:56:01] [INFO] [payment-service] Request processed successfully in 2955ms
+[2026-06-05 09:56:56] [INFO] [payment-service] Request processed successfully in 2264ms
+[2026-06-05 09:57:43] [INFO] [payment-service] Config reloaded
+[2026-06-05 09:58:39] [INFO] [payment-service] User u7024 logged in
+[2026-06-05 09:58:55] [INFO] [payment-service] Request processed successfully in 3630ms
+[2026-06-05 09:59:54] [INFO] [payment-service] Cache hit for key=cache:6
+[2026-06-05 10:00:42] [WARNING] [payment-service] Deprecated endpoint called by u7565
+[2026-06-05 10:00:55] [WARNING] [payment-service] Response time 647ms exceeds threshold
+[2026-06-05 10:01:39] [INFO] [payment-service] User u4367 logged in
+[2026-06-05 10:02:10] [INFO] [payment-service] Health check passed
+[2026-06-05 10:03:06] [INFO] [payment-service] Cache hit for key=cache:6
+[2026-06-05 10:03:45] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:03:57] [INFO] [payment-service] Cache hit for key=cache:22
+[2026-06-05 10:04:45] [INFO] [payment-service] Request processed successfully in 3735ms
+[2026-06-05 10:05:14] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 10:05:25] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:06:16] [INFO] [payment-service] Health check passed
+[2026-06-05 10:06:51] [WARNING] [payment-service] Memory usage at 89%
+[2026-06-05 10:07:31] [INFO] [payment-service] Health check passed
+[2026-06-05 10:08:30] [ERROR] [payment-service] Database connection timeout after 2027ms
+[2026-06-05 10:09:30] [INFO] [payment-service] Health check passed
+[2026-06-05 10:10:20] [WARNING] [payment-service] Memory usage at 92%
+[2026-06-05 10:10:35] [WARNING] [payment-service] Memory usage at 76%
+[2026-06-05 10:11:02] [INFO] [payment-service] User u2837 logged in
+[2026-06-05 10:11:41] [WARNING] [payment-service] Deprecated endpoint called by u4909
+[2026-06-05 10:12:37] [WARNING] [payment-service] Retry attempt 1 for downstream call
+[2026-06-05 10:12:57] [WARNING] [payment-service] Memory usage at 98%
+[2026-06-05 10:13:07] [WARNING] [payment-service] Deprecated endpoint called by u3272
+[2026-06-05 10:13:54] [INFO] [payment-service] User u3654 logged in
+[2026-06-05 10:14:30] [INFO] [payment-service] User u6631 logged in
+[2026-06-05 10:14:55] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 10:15:25] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:15:40] [INFO] [payment-service] Request processed successfully in 1454ms
+[2026-06-05 10:15:45] [INFO] [payment-service] Request processed successfully in 2151ms
+[2026-06-05 10:15:58] [WARNING] [payment-service] Rate limit approaching for client u3317
+[2026-06-05 10:16:33] [INFO] [payment-service] User u6195 logged in
+[2026-06-05 10:16:54] [WARNING] [payment-service] Rate limit approaching for client u1800
+[2026-06-05 10:17:14] [INFO] [payment-service] Health check passed
+[2026-06-05 10:17:28] [INFO] [payment-service] Health check passed
+[2026-06-05 10:17:42] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:17:55] [INFO] [payment-service] Request processed successfully in 8696ms
+[2026-06-05 10:18:43] [INFO] [payment-service] Request processed successfully in 8263ms
+[2026-06-05 10:18:57] [INFO] [payment-service] Request processed successfully in 7495ms
+[2026-06-05 10:19:04] [INFO] [payment-service] Health check passed
+[2026-06-05 10:19:14] [INFO] [payment-service] Cache hit for key=cache:23
+[2026-06-05 10:19:54] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 10:20:01] [INFO] [payment-service] User u4922 logged in
+[2026-06-05 10:20:36] [INFO] [payment-service] Request processed successfully in 3731ms
+[2026-06-05 10:21:32] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 10:22:21] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:22:44] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 10:23:20] [WARNING] [payment-service] Response time 2004ms exceeds threshold
+[2026-06-05 10:23:41] [WARNING] [payment-service] Response time 495ms exceeds threshold
+[2026-06-05 10:24:34] [INFO] [payment-service] Cache hit for key=cache:25
+[2026-06-05 10:25:23] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 10:26:16] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:26:49] [WARNING] [payment-service] Response time 8267ms exceeds threshold
+[2026-06-05 10:27:01] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 10:27:46] [INFO] [payment-service] Request processed successfully in 6641ms
+[2026-06-05 10:28:10] [INFO] [payment-service] Request processed successfully in 3048ms
+[2026-06-05 10:28:33] [INFO] [payment-service] Request processed successfully in 5049ms
+[2026-06-05 10:28:55] [INFO] [payment-service] User u8937 logged in
+[2026-06-05 10:29:45] [INFO] [payment-service] Cache hit for key=cache:19
+[2026-06-05 10:29:52] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:30:32] [INFO] [payment-service] Cache hit for key=cache:84
+[2026-06-05 10:31:22] [INFO] [payment-service] Health check passed
+[2026-06-05 10:31:34] [INFO] [payment-service] Health check passed
+[2026-06-05 10:32:15] [INFO] [payment-service] Request processed successfully in 3227ms
+[2026-06-05 10:33:03] [INFO] [payment-service] Health check passed
+[2026-06-05 10:33:39] [INFO] [payment-service] Request processed successfully in 5631ms
+[2026-06-05 10:33:53] [WARNING] [payment-service] Rate limit approaching for client u2547
+[2026-06-05 10:34:50] [INFO] [payment-service] Health check passed
+[2026-06-05 10:35:35] [WARNING] [payment-service] Response time 1691ms exceeds threshold
+[2026-06-05 10:35:42] [INFO] [payment-service] User u2856 logged in
+[2026-06-05 10:36:09] [INFO] [payment-service] Request processed successfully in 2023ms
+[2026-06-05 10:36:31] [INFO] [payment-service] Cache hit for key=cache:49
+[2026-06-05 10:36:55] [INFO] [payment-service] Health check passed
+[2026-06-05 10:37:46] [INFO] [payment-service] Cache hit for key=cache:72
+[2026-06-05 10:38:11] [INFO] [payment-service] Cache hit for key=cache:71
+[2026-06-05 10:38:30] [INFO] [payment-service] Health check passed
+[2026-06-05 10:38:58] [INFO] [payment-service] User u6199 logged in
+[2026-06-05 10:39:28] [INFO] [payment-service] Health check passed
+[2026-06-05 10:39:40] [INFO] [payment-service] Cache hit for key=cache:29
+[2026-06-05 10:40:19] [WARNING] [payment-service] Rate limit approaching for client u2752
+[2026-06-05 10:41:02] [WARNING] [payment-service] Retry attempt 4 for downstream call
+[2026-06-05 10:41:40] [INFO] [payment-service] Health check passed
+[2026-06-05 10:42:35] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 10:43:30] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:43:39] [INFO] [payment-service] Cache hit for key=cache:19
+[2026-06-05 10:44:22] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:44:42] [INFO] [payment-service] Cache hit for key=cache:6
+[2026-06-05 10:44:54] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 10:45:38] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:46:20] [WARNING] [payment-service] Memory usage at 98%
+[2026-06-05 10:46:49] [INFO] [payment-service] Health check passed
+[2026-06-05 10:47:31] [INFO] [payment-service] Config reloaded
+[2026-06-05 10:48:26] [INFO] [payment-service] Health check passed
+[2026-06-05 10:48:45] [INFO] [payment-service] User u7438 logged in
+[2026-06-05 10:49:06] [INFO] [payment-service] Cache hit for key=cache:77
+[2026-06-05 10:49:16] [WARNING] [payment-service] Deprecated endpoint called by u1496
+[2026-06-05 10:49:45] [INFO] [payment-service] Cache hit for key=cache:66
+[2026-06-05 10:50:34] [ERROR] [payment-service] Authentication failed for user u2531: invalid token
+[2026-06-05 10:51:13] [INFO] [payment-service] Request processed successfully in 8089ms
+[2026-06-05 10:51:39] [INFO] [payment-service] User u9105 logged in
+[2026-06-05 10:51:50] [INFO] [payment-service] Request processed successfully in 3894ms
+[2026-06-05 10:52:14] [INFO] [payment-service] Health check passed
+[2026-06-05 10:53:05] [WARNING] [payment-service] Retry attempt 4 for downstream call
+[2026-06-05 10:53:23] [INFO] [payment-service] Request processed successfully in 6526ms
+[2026-06-05 10:54:18] [INFO] [payment-service] Health check passed
+[2026-06-05 10:54:56] [INFO] [payment-service] Health check passed
+[2026-06-05 10:55:25] [ERROR] [payment-service] Authentication failed for user u2227: invalid token
+[2026-06-05 10:55:38] [ERROR] [payment-service] Authentication failed for user u6670: invalid token
+[2026-06-05 10:55:49] [INFO] [payment-service] Cache hit for key=cache:83
+[2026-06-05 10:56:29] [WARNING] [payment-service] Retry attempt 2 for downstream call
+[2026-06-05 10:56:45] [INFO] [payment-service] User u5504 logged in
+[2026-06-05 10:57:31] [INFO] [payment-service] Request processed successfully in 5845ms
+[2026-06-05 10:58:28] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 10:59:23] [INFO] [payment-service] Health check passed
+[2026-06-05 10:59:52] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 11:00:07] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:00:16] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:00:52] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 11:01:00] [INFO] [payment-service] Health check passed
+[2026-06-05 11:01:28] [INFO] [payment-service] Health check passed
+[2026-06-05 11:01:48] [CRITICAL] [payment-service] All DB replicas unreachable
+[2026-06-05 11:02:00] [INFO] [payment-service] Cache hit for key=cache:98
+[2026-06-05 11:02:51] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:03:44] [INFO] [payment-service] Health check passed
+[2026-06-05 11:04:20] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:04:55] [INFO] [payment-service] User u1704 logged in
+[2026-06-05 11:05:28] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 11:06:05] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:07:03] [INFO] [payment-service] Request processed successfully in 5455ms
+[2026-06-05 11:07:10] [INFO] [payment-service] Health check passed
+[2026-06-05 11:07:57] [INFO] [payment-service] Cache hit for key=cache:61
+[2026-06-05 11:08:33] [INFO] [payment-service] Request processed successfully in 935ms
+[2026-06-05 11:08:39] [INFO] [payment-service] User u6955 logged in
+[2026-06-05 11:08:59] [INFO] [payment-service] Request processed successfully in 7628ms
+[2026-06-05 11:09:45] [INFO] [payment-service] User u1877 logged in
+[2026-06-05 11:10:06] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:10:13] [INFO] [payment-service] User u7367 logged in
+[2026-06-05 11:10:50] [INFO] [payment-service] Health check passed
+[2026-06-05 11:11:26] [INFO] [payment-service] Health check passed
+[2026-06-05 11:11:59] [INFO] [payment-service] Health check passed
+[2026-06-05 11:12:07] [INFO] [payment-service] Cache hit for key=cache:6
+[2026-06-05 11:12:18] [ERROR] [payment-service] Database connection timeout after 8928ms
+[2026-06-05 11:13:03] [WARNING] [payment-service] Memory usage at 95%
+[2026-06-05 11:13:12] [INFO] [payment-service] User u6211 logged in
+[2026-06-05 11:13:43] [WARNING] [payment-service] Deprecated endpoint called by u5707
+[2026-06-05 11:14:42] [INFO] [payment-service] Cache hit for key=cache:40
+[2026-06-05 11:14:52] [INFO] [payment-service] Cache hit for key=cache:68
+[2026-06-05 11:15:15] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:15:45] [WARNING] [payment-service] Response time 3004ms exceeds threshold
+[2026-06-05 11:16:03] [INFO] [payment-service] Health check passed
+[2026-06-05 11:16:11] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:17:06] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:17:12] [INFO] [payment-service] Cache hit for key=cache:75
+[2026-06-05 11:17:42] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:17:57] [INFO] [payment-service] Cache hit for key=cache:3
+[2026-06-05 11:18:52] [INFO] [payment-service] Request processed successfully in 7756ms
+[2026-06-05 11:19:05] [WARNING] [payment-service] Retry attempt 2 for downstream call
+[2026-06-05 11:19:52] [CRITICAL] [payment-service] All DB replicas unreachable
+[2026-06-05 11:20:22] [WARNING] [payment-service] Rate limit approaching for client u9243
+[2026-06-05 11:20:57] [INFO] [payment-service] Health check passed
+[2026-06-05 11:21:14] [INFO] [payment-service] Health check passed
+[2026-06-05 11:21:59] [INFO] [payment-service] Cache hit for key=cache:61
+[2026-06-05 11:22:28] [INFO] [payment-service] Health check passed
+[2026-06-05 11:22:49] [INFO] [payment-service] Cache hit for key=cache:29
+[2026-06-05 11:23:13] [INFO] [payment-service] Cache hit for key=cache:100
+[2026-06-05 11:24:08] [ERROR] [payment-service] Database connection timeout after 91ms
+[2026-06-05 11:25:07] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:25:26] [INFO] [payment-service] Request processed successfully in 7829ms
+[2026-06-05 11:26:15] [INFO] [payment-service] Cache hit for key=cache:30
+[2026-06-05 11:26:46] [INFO] [payment-service] Health check passed
+[2026-06-05 11:27:36] [INFO] [payment-service] Request processed successfully in 7027ms
+[2026-06-05 11:27:49] [INFO] [payment-service] Cache hit for key=cache:29
+[2026-06-05 11:28:29] [INFO] [payment-service] User u4300 logged in
+[2026-06-05 11:29:07] [INFO] [payment-service] Request processed successfully in 5578ms
+[2026-06-05 11:29:25] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:29:38] [INFO] [payment-service] Request processed successfully in 8706ms
+[2026-06-05 11:30:19] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:30:27] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:31:15] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:32:01] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:32:44] [ERROR] [payment-service] Authentication failed for user u7068: invalid token
+[2026-06-05 11:33:04] [INFO] [payment-service] Health check passed
+[2026-06-05 11:33:20] [INFO] [payment-service] Cache hit for key=cache:16
+[2026-06-05 11:34:05] [WARNING] [payment-service] Memory usage at 97%
+[2026-06-05 11:34:43] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:35:08] [INFO] [payment-service] Health check passed
+[2026-06-05 11:35:36] [INFO] [payment-service] Health check passed
+[2026-06-05 11:36:02] [INFO] [payment-service] User u6326 logged in
+[2026-06-05 11:36:39] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:37:27] [INFO] [payment-service] Health check passed
+[2026-06-05 11:38:17] [INFO] [payment-service] Cache hit for key=cache:46
+[2026-06-05 11:38:42] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 11:39:06] [INFO] [payment-service] Health check passed
+[2026-06-05 11:39:54] [INFO] [payment-service] Health check passed
+[2026-06-05 11:40:14] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:40:47] [WARNING] [payment-service] Retry attempt 3 for downstream call
+[2026-06-05 11:40:57] [WARNING] [payment-service] Memory usage at 89%
+[2026-06-05 11:41:42] [INFO] [payment-service] Health check passed
+[2026-06-05 11:42:02] [INFO] [payment-service] Request processed successfully in 2289ms
+[2026-06-05 11:42:59] [INFO] [payment-service] User u6634 logged in
+[2026-06-05 11:43:56] [WARNING] [payment-service] Response time 6260ms exceeds threshold
+[2026-06-05 11:44:44] [INFO] [payment-service] Health check passed
+[2026-06-05 11:45:34] [WARNING] [payment-service] Response time 4816ms exceeds threshold
+[2026-06-05 11:46:32] [WARNING] [payment-service] Retry attempt 1 for downstream call
+[2026-06-05 11:47:15] [WARNING] [payment-service] Deprecated endpoint called by u5611
+[2026-06-05 11:47:23] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:47:54] [WARNING] [payment-service] Retry attempt 4 for downstream call
+[2026-06-05 11:47:59] [INFO] [payment-service] Request processed successfully in 4688ms
+[2026-06-05 11:48:09] [INFO] [payment-service] Request processed successfully in 3847ms
+[2026-06-05 11:48:50] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:49:17] [ERROR] [payment-service] Authentication failed for user u8488: invalid token
+[2026-06-05 11:49:51] [ERROR] [payment-service] Authentication failed for user u3120: invalid token
+[2026-06-05 11:50:40] [INFO] [payment-service] Cache hit for key=cache:81
+[2026-06-05 11:50:45] [WARNING] [payment-service] Response time 3855ms exceeds threshold
+[2026-06-05 11:51:01] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:51:31] [INFO] [payment-service] User u9684 logged in
+[2026-06-05 11:52:08] [WARNING] [payment-service] Rate limit approaching for client u9775
+[2026-06-05 11:52:21] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:52:37] [INFO] [payment-service] User u1346 logged in
+[2026-06-05 11:53:00] [ERROR] [payment-service] Authentication failed for user u8668: invalid token
+[2026-06-05 11:53:37] [INFO] [payment-service] Health check passed
+[2026-06-05 11:54:34] [INFO] [payment-service] Health check passed
+[2026-06-05 11:54:55] [WARNING] [payment-service] Rate limit approaching for client u6179
+[2026-06-05 11:55:34] [INFO] [payment-service] User u6025 logged in
+[2026-06-05 11:55:59] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:56:52] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:57:26] [CRITICAL] [payment-service] Data corruption detected in table=orders
+[2026-06-05 11:57:52] [INFO] [payment-service] Cache hit for key=cache:32
+[2026-06-05 11:58:36] [INFO] [payment-service] Config reloaded
+[2026-06-05 11:58:46] [INFO] [payment-service] User u1449 logged in
+[2026-06-05 11:59:37] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 12:00:11] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:00:58] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 12:01:50] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:02:35] [WARNING] [payment-service] Rate limit approaching for client u4912
+[2026-06-05 12:03:25] [INFO] [payment-service] Cache hit for key=cache:3
+[2026-06-05 12:03:46] [INFO] [payment-service] Request processed successfully in 71ms
+[2026-06-05 12:03:57] [WARNING] [payment-service] Rate limit approaching for client u3218
+[2026-06-05 12:04:02] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 12:04:10] [INFO] [payment-service] Cache hit for key=cache:42
+[2026-06-05 12:04:15] [INFO] [payment-service] User u2477 logged in
+[2026-06-05 12:04:23] [WARNING] [payment-service] Rate limit approaching for client u6198
+[2026-06-05 12:05:19] [INFO] [payment-service] User u7402 logged in
+[2026-06-05 12:06:19] [INFO] [payment-service] Health check passed
+[2026-06-05 12:06:48] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 12:07:37] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 12:08:26] [INFO] [payment-service] Cache hit for key=cache:71
+[2026-06-05 12:09:16] [INFO] [payment-service] Cache hit for key=cache:33
+[2026-06-05 12:10:09] [INFO] [payment-service] Request processed successfully in 8376ms
+[2026-06-05 12:10:15] [INFO] [payment-service] Cache hit for key=cache:11
+[2026-06-05 12:10:57] [INFO] [payment-service] Request processed successfully in 3504ms
+[2026-06-05 12:11:36] [INFO] [payment-service] User u6949 logged in
+[2026-06-05 12:11:47] [INFO] [payment-service] Health check passed
+[2026-06-05 12:12:31] [INFO] [payment-service] Cache hit for key=cache:25
+[2026-06-05 12:12:53] [INFO] [payment-service] Health check passed
+[2026-06-05 12:13:25] [INFO] [payment-service] Cache hit for key=cache:58
+[2026-06-05 12:13:53] [INFO] [payment-service] User u9842 logged in
+[2026-06-05 12:14:18] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:14:29] [INFO] [payment-service] Cache hit for key=cache:4
+[2026-06-05 12:14:57] [INFO] [payment-service] User u9094 logged in
+[2026-06-05 12:15:34] [WARNING] [payment-service] Rate limit approaching for client u8477
+[2026-06-05 12:16:13] [INFO] [payment-service] Cache hit for key=cache:5
+[2026-06-05 12:16:24] [INFO] [payment-service] Health check passed
+[2026-06-05 12:17:24] [INFO] [payment-service] User u7139 logged in
+[2026-06-05 12:18:23] [WARNING] [payment-service] Memory usage at 75%
+[2026-06-05 12:18:56] [INFO] [payment-service] Health check passed
+[2026-06-05 12:19:36] [INFO] [payment-service] User u9719 logged in
+[2026-06-05 12:20:36] [INFO] [payment-service] Cache hit for key=cache:94
+[2026-06-05 12:20:51] [INFO] [payment-service] Cache hit for key=cache:43
+[2026-06-05 12:21:43] [INFO] [payment-service] Health check passed
+[2026-06-05 12:22:39] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:22:59] [WARNING] [payment-service] Memory usage at 97%
+[2026-06-05 12:23:52] [INFO] [payment-service] Health check passed
+[2026-06-05 12:24:15] [INFO] [payment-service] Request processed successfully in 5336ms
+[2026-06-05 12:24:52] [INFO] [payment-service] Health check passed
+[2026-06-05 12:25:05] [INFO] [payment-service] Cache hit for key=cache:23
+[2026-06-05 12:25:38] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:26:10] [WARNING] [payment-service] Rate limit approaching for client u7899
+[2026-06-05 12:26:58] [INFO] [payment-service] Cache hit for key=cache:9
+[2026-06-05 12:27:40] [INFO] [payment-service] Health check passed
+[2026-06-05 12:28:00] [WARNING] [payment-service] Response time 1717ms exceeds threshold
+[2026-06-05 12:28:06] [INFO] [payment-service] Cache hit for key=cache:45
+[2026-06-05 12:28:22] [WARNING] [payment-service] Response time 7559ms exceeds threshold
+[2026-06-05 12:28:29] [INFO] [payment-service] Health check passed
+[2026-06-05 12:29:24] [INFO] [payment-service] Request processed successfully in 8270ms
+[2026-06-05 12:30:14] [INFO] [payment-service] Cache hit for key=cache:10
+[2026-06-05 12:31:09] [WARNING] [payment-service] Deprecated endpoint called by u3365
+[2026-06-05 12:31:20] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:31:40] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:32:07] [WARNING] [payment-service] Memory usage at 97%
+[2026-06-05 12:32:22] [WARNING] [payment-service] Rate limit approaching for client u6146
+[2026-06-05 12:32:52] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:33:08] [INFO] [payment-service] Health check passed
+[2026-06-05 12:33:22] [WARNING] [payment-service] Deprecated endpoint called by u8052
+[2026-06-05 12:33:47] [CRITICAL] [payment-service] Service crashed: out of memory
+[2026-06-05 12:34:45] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 12:35:34] [INFO] [payment-service] Cache hit for key=cache:37
+[2026-06-05 12:36:11] [WARNING] [payment-service] Rate limit approaching for client u7430
+[2026-06-05 12:36:35] [INFO] [payment-service] Cache hit for key=cache:6
+[2026-06-05 12:36:46] [INFO] [payment-service] Cache hit for key=cache:72
+[2026-06-05 12:37:26] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 12:37:35] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 12:38:06] [WARNING] [payment-service] Deprecated endpoint called by u1657
+[2026-06-05 12:38:54] [INFO] [payment-service] Health check passed
+[2026-06-05 12:39:06] [WARNING] [payment-service] Rate limit approaching for client u3424
+[2026-06-05 12:39:30] [INFO] [payment-service] User u9868 logged in
+[2026-06-05 12:39:37] [INFO] [payment-service] Request processed successfully in 116ms
+[2026-06-05 12:40:18] [INFO] [payment-service] Cache hit for key=cache:44
+[2026-06-05 12:40:59] [WARNING] [payment-service] Retry attempt 1 for downstream call
+[2026-06-05 12:41:54] [INFO] [payment-service] Request processed successfully in 6048ms
+[2026-06-05 12:42:22] [ERROR] [payment-service] Authentication failed for user u6365: invalid token
+[2026-06-05 12:43:14] [INFO] [payment-service] Request processed successfully in 3983ms
+[2026-06-05 12:43:55] [INFO] [payment-service] Request processed successfully in 5394ms
+[2026-06-05 12:44:01] [ERROR] [payment-service] Authentication failed for user u8152: invalid token
+[2026-06-05 12:44:16] [ERROR] [payment-service] Authentication failed for user u6514: invalid token
+[2026-06-05 12:44:50] [INFO] [payment-service] Cache hit for key=cache:18
+[2026-06-05 12:45:28] [WARNING] [payment-service] Rate limit approaching for client u9518
+[2026-06-05 12:45:41] [ERROR] [payment-service] Database connection timeout after 6034ms
+[2026-06-05 12:46:31] [INFO] [payment-service] Health check passed
+[2026-06-05 12:47:20] [INFO] [payment-service] User u8623 logged in
+[2026-06-05 12:48:00] [INFO] [payment-service] User u4312 logged in
+[2026-06-05 12:48:32] [INFO] [payment-service] Request processed successfully in 3499ms
+[2026-06-05 12:48:50] [INFO] [payment-service] Health check passed
+[2026-06-05 12:49:17] [WARNING] [payment-service] Memory usage at 89%
+[2026-06-05 12:49:59] [INFO] [payment-service] Cache hit for key=cache:52
+[2026-06-05 12:50:40] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:50:45] [INFO] [payment-service] User u1516 logged in
+[2026-06-05 12:51:44] [INFO] [payment-service] User u9201 logged in
+[2026-06-05 12:52:07] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 12:52:15] [INFO] [payment-service] Cache hit for key=cache:55
+[2026-06-05 12:52:46] [INFO] [payment-service] Request processed successfully in 8292ms
+[2026-06-05 12:53:34] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 12:54:30] [WARNING] [payment-service] Memory usage at 94%
+[2026-06-05 12:55:30] [INFO] [payment-service] User u9663 logged in
+[2026-06-05 12:56:11] [INFO] [payment-service] User u2286 logged in
+[2026-06-05 12:56:53] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:57:44] [INFO] [payment-service] Config reloaded
+[2026-06-05 12:57:52] [INFO] [payment-service] Health check passed
+[2026-06-05 12:58:16] [INFO] [payment-service] Health check passed
+[2026-06-05 12:59:03] [WARNING] [payment-service] Memory usage at 93%
+[2026-06-05 12:59:22] [INFO] [payment-service] Request processed successfully in 1337ms
+[2026-06-05 12:59:54] [INFO] [payment-service] Request processed successfully in 984ms
+[2026-06-05 13:00:41] [INFO] [payment-service] Cache hit for key=cache:83
+[2026-06-05 13:00:57] [ERROR] [payment-service] Authentication failed for user u2299: invalid token
+[2026-06-05 13:01:22] [INFO] [payment-service] Health check passed
+[2026-06-05 13:01:46] [WARNING] [payment-service] Memory usage at 74%
+[2026-06-05 13:01:52] [CRITICAL] [payment-service] All DB replicas unreachable
+[2026-06-05 13:01:57] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:02:56] [INFO] [payment-service] Request processed successfully in 8132ms
+[2026-06-05 13:03:04] [WARNING] [payment-service] Deprecated endpoint called by u9556
+[2026-06-05 13:03:56] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:04:13] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 13:04:52] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:05:42] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:05:59] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 13:06:51] [INFO] [payment-service] Request processed successfully in 235ms
+[2026-06-05 13:07:06] [INFO] [payment-service] User u6492 logged in
+[2026-06-05 13:07:51] [INFO] [payment-service] Cache hit for key=cache:91
+[2026-06-05 13:08:42] [INFO] [payment-service] Request processed successfully in 429ms
+[2026-06-05 13:08:54] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:09:53] [WARNING] [payment-service] Deprecated endpoint called by u2598
+[2026-06-05 13:10:52] [INFO] [payment-service] Health check passed
+[2026-06-05 13:11:39] [WARNING] [payment-service] Deprecated endpoint called by u2344
+[2026-06-05 13:12:36] [WARNING] [payment-service] Retry attempt 2 for downstream call
+[2026-06-05 13:12:53] [INFO] [payment-service] Health check passed
+[2026-06-05 13:13:02] [INFO] [payment-service] User u8174 logged in
+[2026-06-05 13:13:50] [WARNING] [payment-service] Rate limit approaching for client u3289
+[2026-06-05 13:14:43] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:15:37] [INFO] [payment-service] User u4081 logged in
+[2026-06-05 13:15:53] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 13:16:50] [WARNING] [payment-service] Retry attempt 1 for downstream call
+[2026-06-05 13:17:20] [INFO] [payment-service] Request processed successfully in 5147ms
+[2026-06-05 13:18:20] [INFO] [payment-service] Health check passed
+[2026-06-05 13:18:34] [ERROR] [payment-service] Database connection timeout after 7896ms
+[2026-06-05 13:19:31] [WARNING] [payment-service] Rate limit approaching for client u1442
+[2026-06-05 13:20:04] [INFO] [payment-service] Health check passed
+[2026-06-05 13:20:10] [INFO] [payment-service] User u7206 logged in
+[2026-06-05 13:20:30] [INFO] [payment-service] Health check passed
+[2026-06-05 13:21:08] [INFO] [payment-service] Health check passed
+[2026-06-05 13:21:47] [INFO] [payment-service] Cache hit for key=cache:41
+[2026-06-05 13:22:41] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 13:23:19] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:23:44] [INFO] [payment-service] User u4025 logged in
+[2026-06-05 13:24:11] [INFO] [payment-service] Cache hit for key=cache:96
+[2026-06-05 13:24:35] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:24:51] [INFO] [payment-service] Health check passed
+[2026-06-05 13:25:01] [INFO] [payment-service] Health check passed
+[2026-06-05 13:25:59] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:26:20] [INFO] [payment-service] User u7555 logged in
+[2026-06-05 13:27:09] [WARNING] [payment-service] Memory usage at 92%
+[2026-06-05 13:27:26] [WARNING] [payment-service] Rate limit approaching for client u3069
+[2026-06-05 13:28:00] [INFO] [payment-service] User u1728 logged in
+[2026-06-05 13:28:06] [ERROR] [payment-service] Authentication failed for user u9592: invalid token
+[2026-06-05 13:28:50] [WARNING] [payment-service] Memory usage at 84%
+[2026-06-05 13:29:41] [INFO] [payment-service] Health check passed
+[2026-06-05 13:30:22] [INFO] [payment-service] Request processed successfully in 417ms
+[2026-06-05 13:30:46] [INFO] [payment-service] Request processed successfully in 8620ms
+[2026-06-05 13:31:03] [INFO] [payment-service] Cache hit for key=cache:6
+[2026-06-05 13:31:44] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 13:32:41] [WARNING] [payment-service] Memory usage at 97%
+[2026-06-05 13:33:10] [WARNING] [payment-service] Response time 7880ms exceeds threshold
+[2026-06-05 13:33:48] [CRITICAL] [payment-service] All DB replicas unreachable
+[2026-06-05 13:34:13] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 13:34:45] [INFO] [payment-service] Request processed successfully in 1365ms
+[2026-06-05 13:34:53] [INFO] [payment-service] Request processed successfully in 5262ms
+[2026-06-05 13:35:07] [INFO] [payment-service] Cache hit for key=cache:29
+[2026-06-05 13:35:22] [ERROR] [payment-service] Database connection timeout after 5919ms
+[2026-06-05 13:36:13] [ERROR] [payment-service] Authentication failed for user u1161: invalid token
+[2026-06-05 13:37:11] [INFO] [payment-service] Request processed successfully in 2820ms
+[2026-06-05 13:38:07] [INFO] [payment-service] Request processed successfully in 2398ms
+[2026-06-05 13:39:05] [WARNING] [payment-service] Rate limit approaching for client u6413
+[2026-06-05 13:39:24] [WARNING] [payment-service] Retry attempt 4 for downstream call
+[2026-06-05 13:39:57] [ERROR] [payment-service] Database connection timeout after 7419ms
+[2026-06-05 13:40:33] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 13:41:05] [WARNING] [payment-service] Retry attempt 1 for downstream call
+[2026-06-05 13:41:20] [INFO] [payment-service] Health check passed
+[2026-06-05 13:41:26] [INFO] [payment-service] Cache hit for key=cache:88
+[2026-06-05 13:41:56] [WARNING] [payment-service] Response time 1120ms exceeds threshold
+[2026-06-05 13:42:44] [INFO] [payment-service] Health check passed
+[2026-06-05 13:43:07] [INFO] [payment-service] User u1295 logged in
+[2026-06-05 13:43:50] [WARNING] [payment-service] Deprecated endpoint called by u6586
+[2026-06-05 13:44:13] [INFO] [payment-service] Health check passed
+[2026-06-05 13:45:02] [WARNING] [payment-service] Rate limit approaching for client u9985
+[2026-06-05 13:45:17] [INFO] [payment-service] Request processed successfully in 5485ms
+[2026-06-05 13:45:50] [INFO] [payment-service] Request processed successfully in 6868ms
+[2026-06-05 13:46:11] [INFO] [payment-service] Cache hit for key=cache:58
+[2026-06-05 13:47:09] [WARNING] [payment-service] Retry attempt 5 for downstream call
+[2026-06-05 13:48:08] [WARNING] [payment-service] Memory usage at 84%
+[2026-06-05 13:49:04] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:49:26] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:49:55] [INFO] [payment-service] Request processed successfully in 3457ms
+[2026-06-05 13:50:49] [INFO] [payment-service] User u8743 logged in
+[2026-06-05 13:51:20] [INFO] [payment-service] User u7949 logged in
+[2026-06-05 13:52:10] [WARNING] [payment-service] Retry attempt 1 for downstream call
+[2026-06-05 13:52:23] [INFO] [payment-service] User u1565 logged in
+[2026-06-05 13:52:57] [INFO] [payment-service] Cache hit for key=cache:37
+[2026-06-05 13:53:44] [INFO] [payment-service] User u2557 logged in
+[2026-06-05 13:54:28] [INFO] [payment-service] Request processed successfully in 6805ms
+[2026-06-05 13:54:41] [INFO] [payment-service] User u2640 logged in
+[2026-06-05 13:54:46] [WARNING] [payment-service] Memory usage at 76%
+[2026-06-05 13:55:33] [INFO] [payment-service] Health check passed
+[2026-06-05 13:56:13] [WARNING] [payment-service] Response time 2080ms exceeds threshold
+[2026-06-05 13:56:53] [INFO] [payment-service] Cache hit for key=cache:65
+[2026-06-05 13:57:50] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:58:07] [INFO] [payment-service] Config reloaded
+[2026-06-05 13:58:45] [WARNING] [payment-service] Rate limit approaching for client u7565
+[2026-06-05 13:58:52] [ERROR] [payment-service] Database connection timeout after 6199ms
+[2026-06-05 13:59:11] [WARNING] [payment-service] Deprecated endpoint called by u9722
+[2026-06-05 13:59:25] [INFO] [payment-service] Request processed successfully in 3242ms
+[2026-06-05 14:00:25] [INFO] [payment-service] Health check passed
+[2026-06-05 14:00:51] [ERROR] [payment-service] Authentication failed for user u4460: invalid token
+[2026-06-05 14:01:37] [INFO] [payment-service] Request processed successfully in 2083ms
+[2026-06-05 14:02:34] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 14:03:21] [CRITICAL] [payment-service] Service crashed: out of memory
+[2026-06-05 14:04:19] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 14:05:19] [INFO] [payment-service] Request processed successfully in 4464ms
+[2026-06-05 14:05:27] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:05:40] [INFO] [payment-service] Cache hit for key=cache:49
+[2026-06-05 14:06:28] [INFO] [payment-service] Health check passed
+[2026-06-05 14:07:14] [INFO] [payment-service] User u9353 logged in
+[2026-06-05 14:07:26] [INFO] [payment-service] Cache hit for key=cache:79
+[2026-06-05 14:08:02] [WARNING] [payment-service] Response time 5847ms exceeds threshold
+[2026-06-05 14:08:27] [INFO] [payment-service] Health check passed
+[2026-06-05 14:09:17] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:09:26] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:09:34] [WARNING] [payment-service] Memory usage at 71%
+[2026-06-05 14:09:51] [INFO] [payment-service] Request processed successfully in 860ms
+[2026-06-05 14:10:01] [WARNING] [payment-service] Deprecated endpoint called by u7526
+[2026-06-05 14:10:17] [INFO] [payment-service] User u8344 logged in
+[2026-06-05 14:10:25] [INFO] [payment-service] Health check passed
+[2026-06-05 14:10:44] [INFO] [payment-service] Cache hit for key=cache:64
+[2026-06-05 14:10:59] [INFO] [payment-service] Request processed successfully in 7465ms
+[2026-06-05 14:11:22] [INFO] [payment-service] Cache hit for key=cache:64
+[2026-06-05 14:11:49] [INFO] [payment-service] Request processed successfully in 4371ms
+[2026-06-05 14:12:47] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:13:18] [INFO] [payment-service] Request processed successfully in 616ms
+[2026-06-05 14:13:23] [CRITICAL] [payment-service] All DB replicas unreachable
+[2026-06-05 14:14:04] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:14:11] [WARNING] [payment-service] Deprecated endpoint called by u8540
+[2026-06-05 14:14:35] [WARNING] [payment-service] Rate limit approaching for client u7294
+[2026-06-05 14:14:44] [INFO] [payment-service] Request processed successfully in 8672ms
+[2026-06-05 14:15:32] [INFO] [payment-service] Request processed successfully in 8164ms
+[2026-06-05 14:15:50] [WARNING] [payment-service] Deprecated endpoint called by u4348
+[2026-06-05 14:16:36] [CRITICAL] [payment-service] Service crashed: out of memory
+[2026-06-05 14:16:54] [INFO] [payment-service] User u1115 logged in
+[2026-06-05 14:17:40] [ERROR] [payment-service] Authentication failed for user u2532: invalid token
+[2026-06-05 14:17:53] [INFO] [payment-service] Cache hit for key=cache:80
+[2026-06-05 14:18:39] [ERROR] [payment-service] Authentication failed for user u5371: invalid token
+[2026-06-05 14:19:15] [INFO] [payment-service] Health check passed
+[2026-06-05 14:19:43] [WARNING] [payment-service] Deprecated endpoint called by u1210
+[2026-06-05 14:20:19] [INFO] [payment-service] Cache hit for key=cache:60
+[2026-06-05 14:21:02] [INFO] [payment-service] User u4123 logged in
+[2026-06-05 14:21:50] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:22:08] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:22:55] [INFO] [payment-service] User u3534 logged in
+[2026-06-05 14:23:24] [INFO] [payment-service] Cache hit for key=cache:35
+[2026-06-05 14:23:32] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:23:51] [INFO] [payment-service] User u4163 logged in
+[2026-06-05 14:24:34] [INFO] [payment-service] User u5183 logged in
+[2026-06-05 14:25:22] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 14:26:11] [WARNING] [payment-service] Memory usage at 91%
+[2026-06-05 14:26:16] [INFO] [payment-service] Health check passed
+[2026-06-05 14:26:51] [ERROR] [payment-service] Authentication failed for user u7109: invalid token
+[2026-06-05 14:27:36] [INFO] [payment-service] User u3922 logged in
+[2026-06-05 14:28:05] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:28:45] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 14:29:12] [INFO] [payment-service] Request processed successfully in 3438ms
+[2026-06-05 14:30:12] [INFO] [payment-service] Health check passed
+[2026-06-05 14:30:58] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 14:31:47] [INFO] [payment-service] User u6621 logged in
+[2026-06-05 14:32:11] [INFO] [payment-service] Health check passed
+[2026-06-05 14:32:29] [INFO] [payment-service] User u9390 logged in
+[2026-06-05 14:33:27] [INFO] [payment-service] Health check passed
+[2026-06-05 14:33:56] [INFO] [payment-service] Health check passed
+[2026-06-05 14:34:05] [WARNING] [payment-service] Retry attempt 4 for downstream call
+[2026-06-05 14:34:19] [INFO] [payment-service] Request processed successfully in 2737ms
+[2026-06-05 14:34:41] [INFO] [payment-service] Request processed successfully in 537ms
+[2026-06-05 14:35:41] [INFO] [payment-service] Request processed successfully in 5398ms
+[2026-06-05 14:36:08] [INFO] [payment-service] Request processed successfully in 216ms
+[2026-06-05 14:36:14] [WARNING] [payment-service] Rate limit approaching for client u1728
+[2026-06-05 14:36:21] [INFO] [payment-service] Health check passed
+[2026-06-05 14:37:13] [INFO] [payment-service] Health check passed
+[2026-06-05 14:37:27] [INFO] [payment-service] Health check passed
+[2026-06-05 14:37:47] [WARNING] [payment-service] Deprecated endpoint called by u5595
+[2026-06-05 14:37:59] [ERROR] [payment-service] Authentication failed for user u6087: invalid token
+[2026-06-05 14:38:14] [WARNING] [payment-service] Memory usage at 99%
+[2026-06-05 14:39:08] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:39:48] [CRITICAL] [payment-service] Service crashed: out of memory
+[2026-06-05 14:40:11] [INFO] [payment-service] Request processed successfully in 3225ms
+[2026-06-05 14:40:36] [INFO] [payment-service] User u9157 logged in
+[2026-06-05 14:41:21] [INFO] [payment-service] Health check passed
+[2026-06-05 14:42:04] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:42:57] [INFO] [payment-service] Health check passed
+[2026-06-05 14:43:44] [INFO] [payment-service] Health check passed
+[2026-06-05 14:43:52] [INFO] [payment-service] Request processed successfully in 4731ms
+[2026-06-05 14:44:17] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:44:37] [WARNING] [payment-service] Rate limit approaching for client u9159
+[2026-06-05 14:45:10] [INFO] [payment-service] Health check passed
+[2026-06-05 14:45:22] [INFO] [payment-service] Health check passed
+[2026-06-05 14:45:52] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:46:22] [INFO] [payment-service] Cache hit for key=cache:23
+[2026-06-05 14:46:50] [INFO] [payment-service] Request processed successfully in 5698ms
+[2026-06-05 14:46:59] [WARNING] [payment-service] Memory usage at 82%
+[2026-06-05 14:47:34] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:47:54] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:48:33] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 14:49:07] [INFO] [payment-service] Cache hit for key=cache:70
+[2026-06-05 14:49:44] [ERROR] [payment-service] Authentication failed for user u5034: invalid token
+[2026-06-05 14:50:01] [ERROR] [payment-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 14:50:38] [INFO] [payment-service] Cache hit for key=cache:68
+[2026-06-05 14:51:07] [INFO] [payment-service] Config reloaded
+[2026-06-05 14:51:43] [WARNING] [payment-service] Response time 7830ms exceeds threshold
+[2026-06-05 14:52:35] [INFO] [payment-service] Request processed successfully in 4284ms
+[2026-06-05 14:52:44] [INFO] [payment-service] Health check passed
+[2026-06-05 14:53:35] [WARNING] [payment-service] Retry attempt 4 for downstream call
+[2026-06-05 14:53:56] [INFO] [payment-service] Request processed successfully in 6132ms
+[2026-06-05 14:54:29] [INFO] [payment-service] User u1719 logged in
+[2026-06-05 14:54:50] [ERROR] [payment-service] Authentication failed for user u7568: invalid token
+[2026-06-05 14:55:36] [INFO] [payment-service] User u5419 logged in
+[2026-06-05 14:56:24] [INFO] [payment-service] User u9436 logged in
+[2026-06-05 14:56:38] [INFO] [payment-service] Cache hit for key=cache:45
+[2026-06-05 14:56:50] [INFO] [payment-service] Cache hit for key=cache:4
+[2026-06-05 14:57:24] [WARNING] [payment-service] Memory usage at 74%
+[2026-06-05 14:58:14] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 14:58:38] [INFO] [payment-service] Health check passed
+[2026-06-05 14:59:37] [INFO] [payment-service] Cache hit for key=cache:74
+[2026-06-05 15:00:03] [INFO] [payment-service] Config reloaded
+[2026-06-05 15:00:32] [INFO] [payment-service] Cache hit for key=cache:84
+[2026-06-05 15:00:41] [INFO] [payment-service] Request processed successfully in 7804ms
+[2026-06-05 15:01:08] [INFO] [payment-service] Health check passed
+[2026-06-05 15:01:56] [ERROR] [payment-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 15:02:08] [WARNING] [payment-service] Rate limit approaching for client u1072
+[2026-06-05 15:02:42] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 15:03:11] [INFO] [payment-service] Cache hit for key=cache:24
+[2026-06-05 15:04:00] [INFO] [payment-service] Request processed successfully in 7799ms
+[2026-06-05 15:04:41] [INFO] [payment-service] Cache hit for key=cache:1
+[2026-06-05 15:05:08] [INFO] [payment-service] Cache hit for key=cache:22
+[2026-06-05 15:05:51] [INFO] [payment-service] Cache hit for key=cache:74
+[2026-06-05 15:05:59] [INFO] [payment-service] Config reloaded
+[2026-06-05 15:06:46] [WARNING] [payment-service] Deprecated endpoint called by u5098
+[2026-06-05 15:07:32] [INFO] [payment-service] Request processed successfully in 5441ms
+[2026-06-05 15:07:52] [WARNING] [payment-service] Rate limit approaching for client u7705
+[2026-06-05 15:08:29] [INFO] [payment-service] Cache hit for key=cache:50
+[2026-06-05 15:09:07] [INFO] [payment-service] Request processed successfully in 7212ms
+[2026-06-05 15:09:39] [INFO] [payment-service] Health check passed
+[2026-06-05 15:10:28] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 15:10:55] [INFO] [payment-service] Health check passed
+[2026-06-05 15:11:42] [ERROR] [payment-service] Disk write error: no space left on device
+[2026-06-05 15:12:22] [INFO] [payment-service] Cache hit for key=cache:59
+[2026-06-05 15:12:54] [WARNING] [payment-service] Memory usage at 94%
+[2026-06-05 15:13:10] [INFO] [payment-service] User u2883 logged in

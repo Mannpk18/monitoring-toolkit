@@ -1,0 +1,834 @@
+=======================================================
+  MONITORING TOOLKIT — HEALTH REPORT
+  Generated: 2026-06-05 15:13:15
+=======================================================
+
+LOG SUMMARY
+  Total entries  : 2652
+  Anomalies found: 382
+  CRITICAL    : 49
+  ERROR       : 292
+  WARNING     : 477
+  INFO        : 1834
+
+ANOMALIES
+  [ERROR_BURST] api-gateway @ 09:51:41
+    4 errors/criticals within 5 minutes starting 2026-06-05 09:51:41
+  [SLOW_RESPONSE] api-gateway @ 09:14:49
+    Response time 4522ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:18:23
+    Response time 5531ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:19:25
+    Response time 4448ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:20:22
+    Response time 4266ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:20:34
+    Response time 6967ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:21:59
+    Response time 7100ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:23:11
+    Response time 3762ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:30:49
+    Response time 3530ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:32:21
+    Response time 3718ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:42:54
+    Response time 8042ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:45:55
+    Response time 8442ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:46:34
+    Response time 4716ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:48:12
+    Response time 7350ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:56:43
+    Response time 5324ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 09:57:42
+    Response time 4909ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:05:12
+    Response time 6442ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:09:21
+    Response time 3196ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:09:36
+    Response time 8738ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:13:38
+    Response time 8693ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:15:59
+    Response time 8362ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:19:56
+    Response time 7461ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:24:18
+    Response time 8300ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:25:57
+    Response time 4442ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:33:23
+    Response time 8245ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:34:38
+    Response time 5497ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:42:29
+    Response time 8372ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:42:43
+    Response time 7740ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:48:29
+    Response time 3425ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:54:20
+    Response time 3990ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:56:21
+    Response time 4948ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 10:58:07
+    Response time 4076ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:00:53
+    Response time 4182ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:05:06
+    Response time 3726ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:05:46
+    Response time 7065ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:09:04
+    Response time 8514ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:20:35
+    Response time 5142ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:22:42
+    Response time 3521ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:26:50
+    Response time 8196ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:36:51
+    Response time 7263ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:38:05
+    Response time 3085ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:40:11
+    Response time 4354ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:47:19
+    Response time 3733ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 11:59:53
+    Response time 8899ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:00:02
+    Response time 5190ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:04:43
+    Response time 5275ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:10:16
+    Response time 3363ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:22:25
+    Response time 7323ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:22:39
+    Response time 7950ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:31:08
+    Response time 8160ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:33:49
+    Response time 3422ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:38:33
+    Response time 7433ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:39:58
+    Response time 6146ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:41:52
+    Response time 5963ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:42:18
+    Response time 4845ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:45:31
+    Response time 6161ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:49:38
+    Response time 4023ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:53:45
+    Response time 7478ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:57:00
+    Response time 3631ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 12:58:37
+    Response time 4755ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:02:00
+    Response time 3633ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:04:01
+    Response time 3751ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:11:04
+    Response time 6280ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:19:41
+    Response time 7519ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:21:15
+    Response time 4721ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:22:05
+    Response time 3346ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:29:05
+    Response time 5930ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:32:11
+    Response time 4667ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:41:50
+    Response time 5692ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:47:17
+    Response time 7471ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:53:30
+    Response time 5414ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:54:23
+    Response time 6163ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 13:58:05
+    Response time 8956ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:02:27
+    Response time 4415ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:08:37
+    Response time 7567ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:11:04
+    Response time 8700ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:22:06
+    Response time 6240ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:27:29
+    Response time 5548ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:29:03
+    Response time 3717ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:30:44
+    Response time 8933ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:31:44
+    Response time 7287ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:33:26
+    Response time 5657ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:34:29
+    Response time 8840ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:36:53
+    Response time 3827ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:46:16
+    Response time 6313ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:48:15
+    Response time 4840ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:53:04
+    Response time 8291ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 14:55:15
+    Response time 5026ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 15:02:24
+    Response time 8225ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 15:09:01
+    Response time 8912ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] api-gateway @ 15:09:42
+    Response time 3541ms exceeds 3000ms threshold
+  [REPEATED_ERROR] api-gateway @ N/A
+    Message appeared 14x: "Failed to connect to upstream service: ConnectionRefused"
+  [REPEATED_ERROR] api-gateway @ N/A
+    Message appeared 12x: "Unhandled exception in request handler: NullPointerException"
+  [REPEATED_ERROR] api-gateway @ N/A
+    Message appeared 18x: "Disk write error: no space left on device"
+  [REPEATED_ERROR] api-gateway @ N/A
+    Message appeared 5x: "Service crashed: out of memory"
+  [REPEATED_ERROR] api-gateway @ N/A
+    Message appeared 4x: "Data corruption detected in table=orders"
+  [REPEATED_ERROR] api-gateway @ N/A
+    Message appeared 4x: "SSL certificate expired"
+  [ERROR_BURST] auth-service @ 09:35:20
+    4 errors/criticals within 5 minutes starting 2026-06-05 09:35:20
+  [SLOW_RESPONSE] auth-service @ 09:15:30
+    Response time 5897ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:18:13
+    Response time 4791ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:18:49
+    Response time 4110ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:21:13
+    Response time 4747ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:24:00
+    Response time 6799ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:26:15
+    Response time 5011ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:27:44
+    Response time 6792ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:31:58
+    Response time 3338ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:32:52
+    Response time 7325ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:34:23
+    Response time 8589ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:36:25
+    Response time 8304ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:38:17
+    Response time 7133ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:40:26
+    Response time 7927ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:43:43
+    Response time 3662ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:47:49
+    Response time 3776ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:50:07
+    Response time 3613ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:53:12
+    Response time 4260ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 09:59:27
+    Response time 8628ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:01:48
+    Response time 3434ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:06:49
+    Response time 4155ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:11:32
+    Response time 6519ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:16:21
+    Response time 7268ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:22:10
+    Response time 6946ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:26:57
+    Response time 7925ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:29:52
+    Response time 4805ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:33:32
+    Response time 3176ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:35:43
+    Response time 4691ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:37:46
+    Response time 4970ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:40:03
+    Response time 7990ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:53:35
+    Response time 6239ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 10:55:12
+    Response time 6685ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:01:15
+    Response time 5723ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:04:08
+    Response time 4856ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:19:51
+    Response time 6428ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:20:02
+    Response time 3205ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:25:09
+    Response time 6750ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:30:46
+    Response time 5712ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:33:29
+    Response time 5305ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:34:08
+    Response time 4188ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:36:19
+    Response time 5844ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:37:22
+    Response time 6086ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:44:47
+    Response time 6654ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:56:43
+    Response time 8522ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 11:58:07
+    Response time 6677ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 12:02:03
+    Response time 7401ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 12:08:36
+    Response time 5351ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 12:12:59
+    Response time 4602ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 12:19:59
+    Response time 6578ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 12:21:40
+    Response time 5079ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 12:27:33
+    Response time 7705ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 12:42:09
+    Response time 5586ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 12:48:37
+    Response time 4503ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 12:50:29
+    Response time 3290ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:07:07
+    Response time 8812ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:08:57
+    Response time 6922ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:10:10
+    Response time 7815ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:10:27
+    Response time 6017ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:13:24
+    Response time 4248ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:13:30
+    Response time 8016ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:24:07
+    Response time 3564ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:32:51
+    Response time 7672ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:33:59
+    Response time 7757ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:36:36
+    Response time 6056ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:37:45
+    Response time 3276ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:42:02
+    Response time 7335ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:46:03
+    Response time 3921ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 13:48:56
+    Response time 6347ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 14:00:16
+    Response time 7881ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 14:00:49
+    Response time 7811ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 14:15:22
+    Response time 8003ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 14:17:50
+    Response time 3156ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 14:22:13
+    Response time 3610ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 14:22:59
+    Response time 3707ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 14:30:46
+    Response time 3438ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 14:31:35
+    Response time 7467ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 14:36:21
+    Response time 8060ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 14:55:05
+    Response time 5868ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 15:04:54
+    Response time 8814ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] auth-service @ 15:11:47
+    Response time 8953ms exceeds 3000ms threshold
+  [REPEATED_ERROR] auth-service @ N/A
+    Message appeared 19x: "Failed to connect to upstream service: ConnectionRefused"
+  [REPEATED_ERROR] auth-service @ N/A
+    Message appeared 16x: "Unhandled exception in request handler: NullPointerException"
+  [REPEATED_ERROR] auth-service @ N/A
+    Message appeared 12x: "Disk write error: no space left on device"
+  [REPEATED_ERROR] auth-service @ N/A
+    Message appeared 3x: "All DB replicas unreachable"
+  [ERROR_BURST] payment-service @ 09:16:11
+    3 errors/criticals within 5 minutes starting 2026-06-05 09:16:11
+  [SLOW_RESPONSE] payment-service @ 09:16:11
+    Response time 5506ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:18:20
+    Response time 7509ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:23:43
+    Response time 4192ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:26:46
+    Response time 5468ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:30:09
+    Response time 6053ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:31:36
+    Response time 5229ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:31:51
+    Response time 8604ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:42:20
+    Response time 7079ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:42:56
+    Response time 3627ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:43:32
+    Response time 3115ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:46:04
+    Response time 5640ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:47:26
+    Response time 4101ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:50:43
+    Response time 6099ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:53:19
+    Response time 7578ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:55:16
+    Response time 8835ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 09:58:55
+    Response time 3630ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:04:45
+    Response time 3735ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:17:55
+    Response time 8696ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:18:43
+    Response time 8263ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:18:57
+    Response time 7495ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:20:36
+    Response time 3731ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:26:49
+    Response time 8267ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:27:46
+    Response time 6641ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:28:10
+    Response time 3048ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:28:33
+    Response time 5049ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:32:15
+    Response time 3227ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:33:39
+    Response time 5631ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:51:13
+    Response time 8089ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:51:50
+    Response time 3894ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:53:23
+    Response time 6526ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 10:57:31
+    Response time 5845ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:07:03
+    Response time 5455ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:08:59
+    Response time 7628ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:12:18
+    Response time 8928ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:15:45
+    Response time 3004ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:18:52
+    Response time 7756ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:25:26
+    Response time 7829ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:27:36
+    Response time 7027ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:29:07
+    Response time 5578ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:29:38
+    Response time 8706ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:43:56
+    Response time 6260ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:45:34
+    Response time 4816ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:47:59
+    Response time 4688ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:48:09
+    Response time 3847ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 11:50:45
+    Response time 3855ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:10:09
+    Response time 8376ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:10:57
+    Response time 3504ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:24:15
+    Response time 5336ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:28:22
+    Response time 7559ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:29:24
+    Response time 8270ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:41:54
+    Response time 6048ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:43:14
+    Response time 3983ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:43:55
+    Response time 5394ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:45:41
+    Response time 6034ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:48:32
+    Response time 3499ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 12:52:46
+    Response time 8292ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:02:56
+    Response time 8132ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:17:20
+    Response time 5147ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:18:34
+    Response time 7896ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:30:46
+    Response time 8620ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:33:10
+    Response time 7880ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:34:53
+    Response time 5262ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:35:22
+    Response time 5919ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:39:57
+    Response time 7419ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:45:17
+    Response time 5485ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:45:50
+    Response time 6868ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:49:55
+    Response time 3457ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:54:28
+    Response time 6805ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:58:52
+    Response time 6199ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 13:59:25
+    Response time 3242ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:05:19
+    Response time 4464ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:08:02
+    Response time 5847ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:10:59
+    Response time 7465ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:11:49
+    Response time 4371ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:14:44
+    Response time 8672ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:15:32
+    Response time 8164ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:29:12
+    Response time 3438ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:35:41
+    Response time 5398ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:40:11
+    Response time 3225ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:43:52
+    Response time 4731ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:46:50
+    Response time 5698ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:51:43
+    Response time 7830ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:52:35
+    Response time 4284ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 14:53:56
+    Response time 6132ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 15:00:41
+    Response time 7804ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 15:04:00
+    Response time 7799ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 15:07:32
+    Response time 5441ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] payment-service @ 15:09:07
+    Response time 7212ms exceeds 3000ms threshold
+  [REPEATED_ERROR] payment-service @ N/A
+    Message appeared 6x: "All DB replicas unreachable"
+  [REPEATED_ERROR] payment-service @ N/A
+    Message appeared 5x: "Service crashed: out of memory"
+  [REPEATED_ERROR] payment-service @ N/A
+    Message appeared 22x: "Failed to connect to upstream service: ConnectionRefused"
+  [REPEATED_ERROR] payment-service @ N/A
+    Message appeared 16x: "Disk write error: no space left on device"
+  [REPEATED_ERROR] payment-service @ N/A
+    Message appeared 13x: "Unhandled exception in request handler: NullPointerException"
+  [ERROR_BURST] user-service @ 09:52:06
+    4 errors/criticals within 5 minutes starting 2026-06-05 09:52:06
+  [SLOW_RESPONSE] user-service @ 09:18:26
+    Response time 3011ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 09:29:33
+    Response time 7858ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 09:37:57
+    Response time 5058ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 09:39:13
+    Response time 7733ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 09:40:05
+    Response time 7252ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 09:41:48
+    Response time 6558ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 09:56:03
+    Response time 6102ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:00:50
+    Response time 5867ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:06:36
+    Response time 8106ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:06:58
+    Response time 5960ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:07:37
+    Response time 7686ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:16:17
+    Response time 4088ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:18:00
+    Response time 3278ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:28:30
+    Response time 7174ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:42:21
+    Response time 3406ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:43:45
+    Response time 6242ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:46:32
+    Response time 5185ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:48:09
+    Response time 6791ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:48:24
+    Response time 8721ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:49:36
+    Response time 6969ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:50:07
+    Response time 7495ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:51:02
+    Response time 6182ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:51:28
+    Response time 6364ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:53:15
+    Response time 7262ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:56:31
+    Response time 7767ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 10:59:14
+    Response time 6207ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:02:28
+    Response time 3911ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:03:11
+    Response time 7566ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:04:15
+    Response time 6428ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:05:08
+    Response time 4351ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:05:57
+    Response time 4526ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:06:48
+    Response time 3065ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:07:13
+    Response time 6339ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:08:13
+    Response time 4120ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:09:19
+    Response time 4906ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:12:55
+    Response time 8606ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:14:13
+    Response time 8013ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:17:52
+    Response time 6402ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:25:10
+    Response time 8068ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:25:41
+    Response time 4834ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:28:18
+    Response time 3705ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:30:29
+    Response time 5156ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:35:23
+    Response time 3614ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:38:21
+    Response time 4029ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:42:34
+    Response time 7147ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:43:23
+    Response time 5385ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:44:09
+    Response time 3051ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:44:42
+    Response time 8245ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:49:41
+    Response time 5276ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:49:58
+    Response time 8562ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:50:47
+    Response time 8128ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:52:28
+    Response time 5781ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 11:58:05
+    Response time 5232ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:00:28
+    Response time 4852ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:01:57
+    Response time 3344ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:03:24
+    Response time 8906ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:14:05
+    Response time 6667ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:15:50
+    Response time 7009ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:18:56
+    Response time 7748ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:19:40
+    Response time 8064ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:23:47
+    Response time 5562ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:28:30
+    Response time 3916ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:31:38
+    Response time 6392ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:33:55
+    Response time 8154ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:37:11
+    Response time 3890ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:42:27
+    Response time 4581ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:44:55
+    Response time 3159ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:53:27
+    Response time 4383ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 12:58:22
+    Response time 7658ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 13:01:37
+    Response time 7311ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 13:03:20
+    Response time 6275ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 13:04:13
+    Response time 3675ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 13:20:08
+    Response time 3533ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 13:20:21
+    Response time 8341ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 13:41:42
+    Response time 3575ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 13:52:48
+    Response time 7305ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 13:59:25
+    Response time 3918ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:01:01
+    Response time 8645ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:04:11
+    Response time 7311ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:05:24
+    Response time 8546ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:09:34
+    Response time 6791ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:10:03
+    Response time 3264ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:23:11
+    Response time 6653ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:26:59
+    Response time 5569ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:28:09
+    Response time 7053ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:31:15
+    Response time 5274ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:38:55
+    Response time 7911ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:40:32
+    Response time 4051ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:42:09
+    Response time 8603ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:48:29
+    Response time 3079ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:48:47
+    Response time 4810ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:55:24
+    Response time 3967ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:56:07
+    Response time 7930ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:56:52
+    Response time 3816ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:57:54
+    Response time 7173ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 14:58:04
+    Response time 3208ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 15:01:25
+    Response time 6922ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 15:04:12
+    Response time 6514ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 15:10:12
+    Response time 7418ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 15:12:17
+    Response time 7391ms exceeds 3000ms threshold
+  [SLOW_RESPONSE] user-service @ 15:13:14
+    Response time 3791ms exceeds 3000ms threshold
+  [REPEATED_ERROR] user-service @ N/A
+    Message appeared 12x: "Disk write error: no space left on device"
+  [REPEATED_ERROR] user-service @ N/A
+    Message appeared 13x: "Failed to connect to upstream service: ConnectionRefused"
+  [REPEATED_ERROR] user-service @ N/A
+    Message appeared 6x: "SSL certificate expired"
+  [REPEATED_ERROR] user-service @ N/A
+    Message appeared 12x: "Unhandled exception in request handler: NullPointerException"
+  [REPEATED_ERROR] user-service @ N/A
+    Message appeared 3x: "Data corruption detected in table=orders"
+
+TOP FAILING SERVICES (SQL)
+  payment-service        incidents=26  p1=5
+  api-gateway            incidents=26  p1=1
+  auth-service           incidents=24  p1=3
+  user-service           incidents=22  p1=4
+  report-service         incidents=22  p1=4
+
+OPEN / INVESTIGATING INCIDENTS
+  [P1] api-gateway          unknown    investigating
+  [P1] report-service       db         investigating
+  [P1] auth-service         network    open
+  [P1] auth-service         memory     investigating
+  [P1] payment-service      unknown    open
+  [P1] auth-service         auth       open
+  [P2] auth-service         memory     open
+  [P2] report-service       auth       open
+  [P2] auth-service         memory     open
+  [P2] auth-service         auth       investigating
+  [P2] user-service         unknown    investigating
+  [P2] report-service       unknown    open
+  [P2] report-service       network    investigating
+  [P2] payment-service      auth       investigating
+  [P2] api-gateway          network    open
+  [P2] api-gateway          auth       investigating
+  [P3] payment-service      network    investigating
+  [P3] user-service         memory     investigating
+  [P3] report-service       network    investigating
+  [P3] report-service       unknown    investigating
+  [P3] payment-service      network    investigating
+  [P3] auth-service         db         open
+  [P3] report-service       unknown    open
+  [P3] user-service         auth       investigating
+  [P3] api-gateway          unknown    investigating
+  [P3] auth-service         unknown    investigating
+  [P3] user-service         network    open
+  [P3] payment-service      network    open
+  [P3] auth-service         memory     investigating
+  [P3] report-service       network    investigating
+  [P3] payment-service      db         open
+  [P3] api-gateway          unknown    investigating
+  [P3] user-service         db         investigating
+  [P3] api-gateway          db         investigating
+  [P3] api-gateway          network    open
+  [P3] auth-service         db         open
+  [P3] auth-service         memory     investigating
+  [P3] auth-service         db         open
+  [P3] api-gateway          db         open
+  [P3] api-gateway          network    open
+  [P3] auth-service         memory     open
+  [P3] report-service       auth       open
+  [P3] report-service       auth       investigating
+  [P3] api-gateway          network    investigating
+  [P3] report-service       db         open
+  [P3] api-gateway          db         investigating
+  [P3] user-service         network    investigating

@@ -1,0 +1,657 @@
+[2026-06-05 09:13:15] [WARNING] [auth-service] Memory usage at 80%
+[2026-06-05 09:14:09] [INFO] [auth-service] Request processed successfully in 1053ms
+[2026-06-05 09:14:27] [INFO] [auth-service] Health check passed
+[2026-06-05 09:14:37] [WARNING] [auth-service] Deprecated endpoint called by u6707
+[2026-06-05 09:15:30] [INFO] [auth-service] Request processed successfully in 5897ms
+[2026-06-05 09:15:45] [WARNING] [auth-service] Deprecated endpoint called by u2122
+[2026-06-05 09:16:19] [INFO] [auth-service] Cache hit for key=cache:37
+[2026-06-05 09:16:52] [INFO] [auth-service] Cache hit for key=cache:14
+[2026-06-05 09:17:27] [INFO] [auth-service] Health check passed
+[2026-06-05 09:17:50] [INFO] [auth-service] User u9201 logged in
+[2026-06-05 09:18:13] [INFO] [auth-service] Request processed successfully in 4791ms
+[2026-06-05 09:18:49] [INFO] [auth-service] Request processed successfully in 4110ms
+[2026-06-05 09:19:45] [WARNING] [auth-service] Rate limit approaching for client u9784
+[2026-06-05 09:20:25] [INFO] [auth-service] User u4523 logged in
+[2026-06-05 09:21:13] [WARNING] [auth-service] Response time 4747ms exceeds threshold
+[2026-06-05 09:21:50] [INFO] [auth-service] Cache hit for key=cache:57
+[2026-06-05 09:22:31] [INFO] [auth-service] User u7219 logged in
+[2026-06-05 09:23:12] [INFO] [auth-service] Cache hit for key=cache:19
+[2026-06-05 09:24:00] [INFO] [auth-service] Request processed successfully in 6799ms
+[2026-06-05 09:24:25] [WARNING] [auth-service] Memory usage at 91%
+[2026-06-05 09:24:35] [WARNING] [auth-service] Memory usage at 96%
+[2026-06-05 09:24:51] [INFO] [auth-service] Health check passed
+[2026-06-05 09:25:00] [INFO] [auth-service] Health check passed
+[2026-06-05 09:25:55] [INFO] [auth-service] Request processed successfully in 1305ms
+[2026-06-05 09:26:15] [INFO] [auth-service] Request processed successfully in 5011ms
+[2026-06-05 09:26:35] [INFO] [auth-service] Health check passed
+[2026-06-05 09:26:42] [INFO] [auth-service] Config reloaded
+[2026-06-05 09:27:04] [ERROR] [auth-service] Authentication failed for user u5763: invalid token
+[2026-06-05 09:27:44] [INFO] [auth-service] Request processed successfully in 6792ms
+[2026-06-05 09:27:52] [WARNING] [auth-service] Memory usage at 99%
+[2026-06-05 09:28:14] [WARNING] [auth-service] Response time 2138ms exceeds threshold
+[2026-06-05 09:28:19] [INFO] [auth-service] Config reloaded
+[2026-06-05 09:28:55] [INFO] [auth-service] User u6587 logged in
+[2026-06-05 09:29:17] [INFO] [auth-service] Health check passed
+[2026-06-05 09:29:50] [INFO] [auth-service] Config reloaded
+[2026-06-05 09:30:41] [INFO] [auth-service] Health check passed
+[2026-06-05 09:31:27] [INFO] [auth-service] Config reloaded
+[2026-06-05 09:31:58] [WARNING] [auth-service] Response time 3338ms exceeds threshold
+[2026-06-05 09:32:52] [INFO] [auth-service] Request processed successfully in 7325ms
+[2026-06-05 09:33:46] [WARNING] [auth-service] Deprecated endpoint called by u2421
+[2026-06-05 09:34:23] [INFO] [auth-service] Request processed successfully in 8589ms
+[2026-06-05 09:35:20] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 09:36:13] [INFO] [auth-service] Health check passed
+[2026-06-05 09:36:25] [INFO] [auth-service] Request processed successfully in 8304ms
+[2026-06-05 09:37:04] [WARNING] [auth-service] Memory usage at 89%
+[2026-06-05 09:37:34] [CRITICAL] [auth-service] Data corruption detected in table=orders
+[2026-06-05 09:38:17] [INFO] [auth-service] Request processed successfully in 7133ms
+[2026-06-05 09:39:12] [ERROR] [auth-service] Authentication failed for user u5612: invalid token
+[2026-06-05 09:40:00] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 09:40:26] [INFO] [auth-service] Request processed successfully in 7927ms
+[2026-06-05 09:40:42] [INFO] [auth-service] Cache hit for key=cache:72
+[2026-06-05 09:41:21] [INFO] [auth-service] Cache hit for key=cache:10
+[2026-06-05 09:42:02] [INFO] [auth-service] Cache hit for key=cache:50
+[2026-06-05 09:42:08] [INFO] [auth-service] Cache hit for key=cache:76
+[2026-06-05 09:42:54] [WARNING] [auth-service] Deprecated endpoint called by u8233
+[2026-06-05 09:43:43] [INFO] [auth-service] Request processed successfully in 3662ms
+[2026-06-05 09:44:37] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 09:45:26] [INFO] [auth-service] Config reloaded
+[2026-06-05 09:46:15] [INFO] [auth-service] Config reloaded
+[2026-06-05 09:46:26] [INFO] [auth-service] Health check passed
+[2026-06-05 09:46:53] [INFO] [auth-service] Health check passed
+[2026-06-05 09:47:36] [INFO] [auth-service] Request processed successfully in 464ms
+[2026-06-05 09:47:49] [INFO] [auth-service] Request processed successfully in 3776ms
+[2026-06-05 09:48:20] [WARNING] [auth-service] Deprecated endpoint called by u2773
+[2026-06-05 09:48:46] [INFO] [auth-service] User u9660 logged in
+[2026-06-05 09:49:21] [INFO] [auth-service] Cache hit for key=cache:42
+[2026-06-05 09:50:07] [WARNING] [auth-service] Response time 3613ms exceeds threshold
+[2026-06-05 09:50:32] [INFO] [auth-service] Health check passed
+[2026-06-05 09:51:06] [INFO] [auth-service] Health check passed
+[2026-06-05 09:51:59] [INFO] [auth-service] Health check passed
+[2026-06-05 09:52:07] [INFO] [auth-service] User u2609 logged in
+[2026-06-05 09:52:33] [INFO] [auth-service] Health check passed
+[2026-06-05 09:53:12] [ERROR] [auth-service] Database connection timeout after 4260ms
+[2026-06-05 09:53:39] [INFO] [auth-service] Health check passed
+[2026-06-05 09:54:22] [INFO] [auth-service] Config reloaded
+[2026-06-05 09:55:19] [WARNING] [auth-service] Retry attempt 1 for downstream call
+[2026-06-05 09:55:55] [WARNING] [auth-service] Retry attempt 4 for downstream call
+[2026-06-05 09:56:44] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 09:57:30] [INFO] [auth-service] Health check passed
+[2026-06-05 09:57:50] [INFO] [auth-service] Health check passed
+[2026-06-05 09:58:19] [INFO] [auth-service] Config reloaded
+[2026-06-05 09:58:28] [ERROR] [auth-service] Authentication failed for user u7230: invalid token
+[2026-06-05 09:59:14] [INFO] [auth-service] Cache hit for key=cache:48
+[2026-06-05 09:59:27] [INFO] [auth-service] Request processed successfully in 8628ms
+[2026-06-05 10:00:13] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:00:59] [INFO] [auth-service] Cache hit for key=cache:98
+[2026-06-05 10:01:19] [WARNING] [auth-service] Memory usage at 73%
+[2026-06-05 10:01:25] [INFO] [auth-service] Cache hit for key=cache:91
+[2026-06-05 10:01:48] [WARNING] [auth-service] Response time 3434ms exceeds threshold
+[2026-06-05 10:01:58] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 10:02:54] [INFO] [auth-service] Health check passed
+[2026-06-05 10:03:23] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:03:36] [INFO] [auth-service] User u9986 logged in
+[2026-06-05 10:04:11] [WARNING] [auth-service] Rate limit approaching for client u4581
+[2026-06-05 10:04:36] [INFO] [auth-service] Health check passed
+[2026-06-05 10:05:00] [ERROR] [auth-service] Authentication failed for user u7585: invalid token
+[2026-06-05 10:05:59] [INFO] [auth-service] Request processed successfully in 2341ms
+[2026-06-05 10:06:39] [INFO] [auth-service] Cache hit for key=cache:35
+[2026-06-05 10:06:49] [INFO] [auth-service] Request processed successfully in 4155ms
+[2026-06-05 10:07:36] [INFO] [auth-service] Cache hit for key=cache:33
+[2026-06-05 10:08:02] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:08:10] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:08:28] [INFO] [auth-service] Health check passed
+[2026-06-05 10:08:54] [WARNING] [auth-service] Deprecated endpoint called by u4123
+[2026-06-05 10:09:00] [INFO] [auth-service] Cache hit for key=cache:94
+[2026-06-05 10:09:45] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:09:58] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 10:10:13] [WARNING] [auth-service] Memory usage at 96%
+[2026-06-05 10:11:13] [WARNING] [auth-service] Memory usage at 72%
+[2026-06-05 10:11:32] [ERROR] [auth-service] Database connection timeout after 6519ms
+[2026-06-05 10:11:51] [WARNING] [auth-service] Retry attempt 2 for downstream call
+[2026-06-05 10:12:02] [INFO] [auth-service] User u2891 logged in
+[2026-06-05 10:12:51] [INFO] [auth-service] User u8939 logged in
+[2026-06-05 10:13:42] [WARNING] [auth-service] Memory usage at 75%
+[2026-06-05 10:14:33] [INFO] [auth-service] User u1892 logged in
+[2026-06-05 10:15:25] [INFO] [auth-service] Health check passed
+[2026-06-05 10:16:21] [INFO] [auth-service] Request processed successfully in 7268ms
+[2026-06-05 10:17:13] [ERROR] [auth-service] Authentication failed for user u7811: invalid token
+[2026-06-05 10:17:58] [INFO] [auth-service] Health check passed
+[2026-06-05 10:18:54] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:19:27] [INFO] [auth-service] Cache hit for key=cache:82
+[2026-06-05 10:20:27] [INFO] [auth-service] User u2270 logged in
+[2026-06-05 10:21:11] [INFO] [auth-service] User u8745 logged in
+[2026-06-05 10:21:18] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:22:10] [ERROR] [auth-service] Database connection timeout after 6946ms
+[2026-06-05 10:23:08] [INFO] [auth-service] User u8065 logged in
+[2026-06-05 10:23:21] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:24:03] [WARNING] [auth-service] Deprecated endpoint called by u3369
+[2026-06-05 10:24:13] [INFO] [auth-service] User u8778 logged in
+[2026-06-05 10:24:36] [INFO] [auth-service] Cache hit for key=cache:94
+[2026-06-05 10:25:21] [WARNING] [auth-service] Response time 1073ms exceeds threshold
+[2026-06-05 10:26:04] [INFO] [auth-service] Cache hit for key=cache:51
+[2026-06-05 10:26:57] [INFO] [auth-service] Request processed successfully in 7925ms
+[2026-06-05 10:27:54] [INFO] [auth-service] Health check passed
+[2026-06-05 10:28:41] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:29:31] [INFO] [auth-service] Cache hit for key=cache:97
+[2026-06-05 10:29:52] [ERROR] [auth-service] Database connection timeout after 4805ms
+[2026-06-05 10:30:48] [INFO] [auth-service] Cache hit for key=cache:92
+[2026-06-05 10:31:18] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:31:32] [INFO] [auth-service] Health check passed
+[2026-06-05 10:32:29] [INFO] [auth-service] Request processed successfully in 1472ms
+[2026-06-05 10:33:16] [INFO] [auth-service] Cache hit for key=cache:69
+[2026-06-05 10:33:32] [INFO] [auth-service] Request processed successfully in 3176ms
+[2026-06-05 10:33:47] [INFO] [auth-service] Health check passed
+[2026-06-05 10:34:01] [INFO] [auth-service] Health check passed
+[2026-06-05 10:34:16] [WARNING] [auth-service] Retry attempt 2 for downstream call
+[2026-06-05 10:34:38] [INFO] [auth-service] Health check passed
+[2026-06-05 10:35:20] [INFO] [auth-service] User u3023 logged in
+[2026-06-05 10:35:43] [INFO] [auth-service] Request processed successfully in 4691ms
+[2026-06-05 10:36:10] [INFO] [auth-service] User u8952 logged in
+[2026-06-05 10:36:32] [ERROR] [auth-service] Database connection timeout after 670ms
+[2026-06-05 10:36:47] [WARNING] [auth-service] Memory usage at 91%
+[2026-06-05 10:37:46] [WARNING] [auth-service] Response time 4970ms exceeds threshold
+[2026-06-05 10:38:42] [WARNING] [auth-service] Deprecated endpoint called by u1095
+[2026-06-05 10:38:54] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:39:29] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:39:37] [INFO] [auth-service] Request processed successfully in 409ms
+[2026-06-05 10:40:03] [INFO] [auth-service] Request processed successfully in 7990ms
+[2026-06-05 10:40:09] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 10:40:56] [WARNING] [auth-service] Response time 1874ms exceeds threshold
+[2026-06-05 10:41:45] [INFO] [auth-service] User u9517 logged in
+[2026-06-05 10:42:36] [WARNING] [auth-service] Rate limit approaching for client u6804
+[2026-06-05 10:43:33] [INFO] [auth-service] Health check passed
+[2026-06-05 10:43:39] [INFO] [auth-service] Cache hit for key=cache:50
+[2026-06-05 10:44:11] [INFO] [auth-service] Health check passed
+[2026-06-05 10:44:18] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:44:40] [INFO] [auth-service] Health check passed
+[2026-06-05 10:44:47] [INFO] [auth-service] Health check passed
+[2026-06-05 10:45:41] [INFO] [auth-service] User u2809 logged in
+[2026-06-05 10:46:19] [INFO] [auth-service] User u3144 logged in
+[2026-06-05 10:46:26] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 10:47:01] [ERROR] [auth-service] Authentication failed for user u8774: invalid token
+[2026-06-05 10:47:25] [INFO] [auth-service] User u4464 logged in
+[2026-06-05 10:48:00] [INFO] [auth-service] Health check passed
+[2026-06-05 10:48:25] [WARNING] [auth-service] Retry attempt 1 for downstream call
+[2026-06-05 10:49:05] [INFO] [auth-service] User u8452 logged in
+[2026-06-05 10:49:40] [INFO] [auth-service] Request processed successfully in 281ms
+[2026-06-05 10:49:50] [INFO] [auth-service] Health check passed
+[2026-06-05 10:50:45] [INFO] [auth-service] Cache hit for key=cache:100
+[2026-06-05 10:51:45] [WARNING] [auth-service] Rate limit approaching for client u8363
+[2026-06-05 10:52:36] [INFO] [auth-service] User u2821 logged in
+[2026-06-05 10:53:11] [INFO] [auth-service] Request processed successfully in 1310ms
+[2026-06-05 10:53:35] [INFO] [auth-service] Request processed successfully in 6239ms
+[2026-06-05 10:54:25] [INFO] [auth-service] Config reloaded
+[2026-06-05 10:55:12] [WARNING] [auth-service] Response time 6685ms exceeds threshold
+[2026-06-05 10:55:45] [INFO] [auth-service] Health check passed
+[2026-06-05 10:56:33] [INFO] [auth-service] Request processed successfully in 2202ms
+[2026-06-05 10:56:51] [WARNING] [auth-service] Rate limit approaching for client u3767
+[2026-06-05 10:57:06] [INFO] [auth-service] User u5916 logged in
+[2026-06-05 10:57:53] [WARNING] [auth-service] Memory usage at 79%
+[2026-06-05 10:58:28] [WARNING] [auth-service] Memory usage at 74%
+[2026-06-05 10:59:14] [WARNING] [auth-service] Rate limit approaching for client u2318
+[2026-06-05 10:59:55] [WARNING] [auth-service] Rate limit approaching for client u5464
+[2026-06-05 11:00:30] [WARNING] [auth-service] Rate limit approaching for client u1176
+[2026-06-05 11:01:15] [INFO] [auth-service] Request processed successfully in 5723ms
+[2026-06-05 11:01:48] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:02:22] [WARNING] [auth-service] Deprecated endpoint called by u6344
+[2026-06-05 11:02:59] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:03:32] [INFO] [auth-service] Health check passed
+[2026-06-05 11:04:08] [INFO] [auth-service] Request processed successfully in 4856ms
+[2026-06-05 11:04:52] [INFO] [auth-service] Cache hit for key=cache:82
+[2026-06-05 11:05:28] [INFO] [auth-service] Cache hit for key=cache:26
+[2026-06-05 11:06:06] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 11:06:42] [ERROR] [auth-service] Authentication failed for user u9623: invalid token
+[2026-06-05 11:07:32] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:08:22] [INFO] [auth-service] Health check passed
+[2026-06-05 11:09:14] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:09:31] [INFO] [auth-service] Health check passed
+[2026-06-05 11:09:47] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 11:10:37] [WARNING] [auth-service] Rate limit approaching for client u2756
+[2026-06-05 11:10:56] [ERROR] [auth-service] Authentication failed for user u9124: invalid token
+[2026-06-05 11:11:11] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:11:27] [INFO] [auth-service] Cache hit for key=cache:77
+[2026-06-05 11:11:48] [INFO] [auth-service] User u6665 logged in
+[2026-06-05 11:12:43] [WARNING] [auth-service] Deprecated endpoint called by u1172
+[2026-06-05 11:13:28] [INFO] [auth-service] Health check passed
+[2026-06-05 11:13:57] [INFO] [auth-service] Cache hit for key=cache:97
+[2026-06-05 11:14:49] [ERROR] [auth-service] Database connection timeout after 2469ms
+[2026-06-05 11:14:55] [INFO] [auth-service] Cache hit for key=cache:24
+[2026-06-05 11:15:26] [INFO] [auth-service] Health check passed
+[2026-06-05 11:15:47] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:15:53] [INFO] [auth-service] Request processed successfully in 917ms
+[2026-06-05 11:16:03] [WARNING] [auth-service] Rate limit approaching for client u1621
+[2026-06-05 11:16:21] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:17:18] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:18:12] [INFO] [auth-service] Request processed successfully in 1940ms
+[2026-06-05 11:18:17] [INFO] [auth-service] Health check passed
+[2026-06-05 11:19:00] [INFO] [auth-service] Health check passed
+[2026-06-05 11:19:51] [INFO] [auth-service] Request processed successfully in 6428ms
+[2026-06-05 11:20:02] [INFO] [auth-service] Request processed successfully in 3205ms
+[2026-06-05 11:20:49] [WARNING] [auth-service] Retry attempt 4 for downstream call
+[2026-06-05 11:21:31] [INFO] [auth-service] Cache hit for key=cache:83
+[2026-06-05 11:22:13] [WARNING] [auth-service] Deprecated endpoint called by u2956
+[2026-06-05 11:22:29] [WARNING] [auth-service] Memory usage at 79%
+[2026-06-05 11:23:16] [INFO] [auth-service] User u5868 logged in
+[2026-06-05 11:23:27] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:24:21] [INFO] [auth-service] Health check passed
+[2026-06-05 11:25:09] [INFO] [auth-service] Request processed successfully in 6750ms
+[2026-06-05 11:25:14] [INFO] [auth-service] User u2131 logged in
+[2026-06-05 11:26:01] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 11:26:14] [INFO] [auth-service] Health check passed
+[2026-06-05 11:27:08] [INFO] [auth-service] Request processed successfully in 284ms
+[2026-06-05 11:27:24] [WARNING] [auth-service] Response time 149ms exceeds threshold
+[2026-06-05 11:28:23] [INFO] [auth-service] Health check passed
+[2026-06-05 11:29:02] [INFO] [auth-service] Health check passed
+[2026-06-05 11:29:57] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 11:30:30] [INFO] [auth-service] Cache hit for key=cache:31
+[2026-06-05 11:30:46] [INFO] [auth-service] Request processed successfully in 5712ms
+[2026-06-05 11:31:41] [WARNING] [auth-service] Memory usage at 78%
+[2026-06-05 11:31:59] [INFO] [auth-service] Cache hit for key=cache:72
+[2026-06-05 11:32:11] [INFO] [auth-service] User u7688 logged in
+[2026-06-05 11:32:23] [INFO] [auth-service] User u9200 logged in
+[2026-06-05 11:32:35] [WARNING] [auth-service] Rate limit approaching for client u7900
+[2026-06-05 11:33:21] [INFO] [auth-service] User u2837 logged in
+[2026-06-05 11:33:29] [INFO] [auth-service] Request processed successfully in 5305ms
+[2026-06-05 11:33:39] [INFO] [auth-service] User u9650 logged in
+[2026-06-05 11:34:08] [WARNING] [auth-service] Response time 4188ms exceeds threshold
+[2026-06-05 11:34:25] [CRITICAL] [auth-service] Service crashed: out of memory
+[2026-06-05 11:35:24] [INFO] [auth-service] Health check passed
+[2026-06-05 11:35:44] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:36:19] [INFO] [auth-service] Request processed successfully in 5844ms
+[2026-06-05 11:37:07] [WARNING] [auth-service] Retry attempt 4 for downstream call
+[2026-06-05 11:37:22] [INFO] [auth-service] Request processed successfully in 6086ms
+[2026-06-05 11:37:28] [INFO] [auth-service] Cache hit for key=cache:56
+[2026-06-05 11:37:47] [INFO] [auth-service] Request processed successfully in 2670ms
+[2026-06-05 11:38:26] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:39:03] [WARNING] [auth-service] Rate limit approaching for client u2749
+[2026-06-05 11:39:30] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:39:56] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 11:40:55] [WARNING] [auth-service] Rate limit approaching for client u1569
+[2026-06-05 11:41:33] [INFO] [auth-service] Health check passed
+[2026-06-05 11:41:42] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 11:42:29] [WARNING] [auth-service] Rate limit approaching for client u9968
+[2026-06-05 11:42:52] [INFO] [auth-service] Request processed successfully in 1068ms
+[2026-06-05 11:43:52] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:44:47] [INFO] [auth-service] Request processed successfully in 6654ms
+[2026-06-05 11:45:38] [INFO] [auth-service] Health check passed
+[2026-06-05 11:45:57] [INFO] [auth-service] Cache hit for key=cache:63
+[2026-06-05 11:46:38] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:47:02] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:47:54] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 11:48:52] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:49:46] [INFO] [auth-service] Health check passed
+[2026-06-05 11:50:16] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:51:02] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:51:43] [INFO] [auth-service] User u9676 logged in
+[2026-06-05 11:52:31] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:53:28] [INFO] [auth-service] Health check passed
+[2026-06-05 11:54:09] [INFO] [auth-service] Health check passed
+[2026-06-05 11:54:41] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:55:02] [INFO] [auth-service] User u4063 logged in
+[2026-06-05 11:55:27] [INFO] [auth-service] User u4039 logged in
+[2026-06-05 11:55:41] [INFO] [auth-service] User u4689 logged in
+[2026-06-05 11:56:02] [INFO] [auth-service] Config reloaded
+[2026-06-05 11:56:43] [INFO] [auth-service] Request processed successfully in 8522ms
+[2026-06-05 11:57:08] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 11:57:54] [CRITICAL] [auth-service] SSL certificate expired
+[2026-06-05 11:58:07] [ERROR] [auth-service] Database connection timeout after 6677ms
+[2026-06-05 11:59:00] [INFO] [auth-service] User u3321 logged in
+[2026-06-05 11:59:59] [INFO] [auth-service] User u7201 logged in
+[2026-06-05 12:00:19] [WARNING] [auth-service] Deprecated endpoint called by u4197
+[2026-06-05 12:01:07] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 12:01:24] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:02:03] [INFO] [auth-service] Request processed successfully in 7401ms
+[2026-06-05 12:02:37] [INFO] [auth-service] Health check passed
+[2026-06-05 12:02:53] [WARNING] [auth-service] Rate limit approaching for client u9240
+[2026-06-05 12:03:39] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 12:04:30] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 12:04:37] [INFO] [auth-service] Request processed successfully in 1911ms
+[2026-06-05 12:05:22] [WARNING] [auth-service] Memory usage at 94%
+[2026-06-05 12:06:11] [WARNING] [auth-service] Response time 1007ms exceeds threshold
+[2026-06-05 12:06:46] [INFO] [auth-service] Health check passed
+[2026-06-05 12:07:33] [INFO] [auth-service] User u1001 logged in
+[2026-06-05 12:07:48] [WARNING] [auth-service] Deprecated endpoint called by u1362
+[2026-06-05 12:08:36] [INFO] [auth-service] Request processed successfully in 5351ms
+[2026-06-05 12:08:49] [INFO] [auth-service] Request processed successfully in 2044ms
+[2026-06-05 12:09:49] [INFO] [auth-service] User u3301 logged in
+[2026-06-05 12:09:57] [INFO] [auth-service] Health check passed
+[2026-06-05 12:10:05] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 12:10:47] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:11:09] [INFO] [auth-service] Health check passed
+[2026-06-05 12:11:30] [INFO] [auth-service] Health check passed
+[2026-06-05 12:11:38] [INFO] [auth-service] User u5445 logged in
+[2026-06-05 12:12:28] [INFO] [auth-service] Cache hit for key=cache:35
+[2026-06-05 12:12:59] [INFO] [auth-service] Request processed successfully in 4602ms
+[2026-06-05 12:13:05] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:13:32] [INFO] [auth-service] Cache hit for key=cache:14
+[2026-06-05 12:14:17] [WARNING] [auth-service] Retry attempt 2 for downstream call
+[2026-06-05 12:14:27] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:15:15] [INFO] [auth-service] Cache hit for key=cache:28
+[2026-06-05 12:15:20] [INFO] [auth-service] User u1981 logged in
+[2026-06-05 12:15:35] [WARNING] [auth-service] Memory usage at 87%
+[2026-06-05 12:16:23] [INFO] [auth-service] User u5769 logged in
+[2026-06-05 12:17:14] [ERROR] [auth-service] Database connection timeout after 2538ms
+[2026-06-05 12:17:38] [INFO] [auth-service] Health check passed
+[2026-06-05 12:18:30] [INFO] [auth-service] User u7548 logged in
+[2026-06-05 12:19:23] [INFO] [auth-service] Health check passed
+[2026-06-05 12:19:59] [INFO] [auth-service] Request processed successfully in 6578ms
+[2026-06-05 12:20:51] [INFO] [auth-service] Cache hit for key=cache:43
+[2026-06-05 12:21:11] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 12:21:22] [INFO] [auth-service] Cache hit for key=cache:96
+[2026-06-05 12:21:40] [INFO] [auth-service] Request processed successfully in 5079ms
+[2026-06-05 12:21:51] [WARNING] [auth-service] Memory usage at 70%
+[2026-06-05 12:22:33] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:22:45] [INFO] [auth-service] User u5494 logged in
+[2026-06-05 12:23:25] [INFO] [auth-service] Health check passed
+[2026-06-05 12:23:37] [INFO] [auth-service] Cache hit for key=cache:92
+[2026-06-05 12:24:09] [INFO] [auth-service] User u8011 logged in
+[2026-06-05 12:24:47] [INFO] [auth-service] Health check passed
+[2026-06-05 12:25:41] [INFO] [auth-service] Request processed successfully in 1270ms
+[2026-06-05 12:25:52] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:26:44] [WARNING] [auth-service] Deprecated endpoint called by u6639
+[2026-06-05 12:26:56] [INFO] [auth-service] Cache hit for key=cache:76
+[2026-06-05 12:27:33] [ERROR] [auth-service] Database connection timeout after 7705ms
+[2026-06-05 12:28:12] [WARNING] [auth-service] Deprecated endpoint called by u7038
+[2026-06-05 12:28:36] [INFO] [auth-service] Cache hit for key=cache:30
+[2026-06-05 12:29:15] [INFO] [auth-service] Health check passed
+[2026-06-05 12:29:37] [INFO] [auth-service] Cache hit for key=cache:2
+[2026-06-05 12:30:12] [INFO] [auth-service] User u9164 logged in
+[2026-06-05 12:31:06] [WARNING] [auth-service] Retry attempt 3 for downstream call
+[2026-06-05 12:31:38] [WARNING] [auth-service] Memory usage at 88%
+[2026-06-05 12:32:25] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 12:32:30] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:33:17] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:33:32] [INFO] [auth-service] Cache hit for key=cache:21
+[2026-06-05 12:33:58] [INFO] [auth-service] User u1672 logged in
+[2026-06-05 12:34:14] [INFO] [auth-service] User u1200 logged in
+[2026-06-05 12:34:54] [ERROR] [auth-service] Database connection timeout after 609ms
+[2026-06-05 12:35:13] [INFO] [auth-service] Health check passed
+[2026-06-05 12:35:32] [WARNING] [auth-service] Rate limit approaching for client u7848
+[2026-06-05 12:36:25] [INFO] [auth-service] User u8156 logged in
+[2026-06-05 12:36:41] [INFO] [auth-service] Cache hit for key=cache:4
+[2026-06-05 12:37:05] [INFO] [auth-service] Cache hit for key=cache:1
+[2026-06-05 12:37:59] [WARNING] [auth-service] Deprecated endpoint called by u4960
+[2026-06-05 12:38:14] [INFO] [auth-service] Request processed successfully in 1294ms
+[2026-06-05 12:39:06] [WARNING] [auth-service] Rate limit approaching for client u9819
+[2026-06-05 12:39:40] [INFO] [auth-service] Health check passed
+[2026-06-05 12:40:11] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:41:11] [INFO] [auth-service] Request processed successfully in 1456ms
+[2026-06-05 12:41:29] [INFO] [auth-service] User u7769 logged in
+[2026-06-05 12:42:09] [INFO] [auth-service] Request processed successfully in 5586ms
+[2026-06-05 12:43:02] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:43:14] [WARNING] [auth-service] Memory usage at 83%
+[2026-06-05 12:43:24] [WARNING] [auth-service] Rate limit approaching for client u8057
+[2026-06-05 12:44:19] [INFO] [auth-service] User u2814 logged in
+[2026-06-05 12:45:11] [INFO] [auth-service] Cache hit for key=cache:27
+[2026-06-05 12:45:36] [WARNING] [auth-service] Memory usage at 75%
+[2026-06-05 12:46:17] [ERROR] [auth-service] Authentication failed for user u9048: invalid token
+[2026-06-05 12:46:29] [WARNING] [auth-service] Rate limit approaching for client u5559
+[2026-06-05 12:46:51] [WARNING] [auth-service] Deprecated endpoint called by u7437
+[2026-06-05 12:47:47] [ERROR] [auth-service] Authentication failed for user u4840: invalid token
+[2026-06-05 12:48:17] [INFO] [auth-service] User u3933 logged in
+[2026-06-05 12:48:37] [INFO] [auth-service] Request processed successfully in 4503ms
+[2026-06-05 12:49:09] [INFO] [auth-service] Health check passed
+[2026-06-05 12:49:59] [INFO] [auth-service] Cache hit for key=cache:92
+[2026-06-05 12:50:29] [ERROR] [auth-service] Database connection timeout after 3290ms
+[2026-06-05 12:51:15] [INFO] [auth-service] Health check passed
+[2026-06-05 12:51:37] [INFO] [auth-service] Health check passed
+[2026-06-05 12:51:43] [INFO] [auth-service] Health check passed
+[2026-06-05 12:52:25] [INFO] [auth-service] Health check passed
+[2026-06-05 12:53:19] [INFO] [auth-service] Health check passed
+[2026-06-05 12:53:25] [WARNING] [auth-service] Rate limit approaching for client u7725
+[2026-06-05 12:54:18] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 12:54:50] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:55:26] [INFO] [auth-service] Config reloaded
+[2026-06-05 12:55:55] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 12:56:26] [INFO] [auth-service] Health check passed
+[2026-06-05 12:56:41] [INFO] [auth-service] Cache hit for key=cache:93
+[2026-06-05 12:57:18] [WARNING] [auth-service] Rate limit approaching for client u6869
+[2026-06-05 12:57:37] [INFO] [auth-service] Cache hit for key=cache:99
+[2026-06-05 12:58:02] [INFO] [auth-service] User u1878 logged in
+[2026-06-05 12:58:50] [WARNING] [auth-service] Memory usage at 79%
+[2026-06-05 12:58:57] [INFO] [auth-service] Health check passed
+[2026-06-05 12:59:14] [INFO] [auth-service] Cache hit for key=cache:48
+[2026-06-05 12:59:31] [INFO] [auth-service] Cache hit for key=cache:88
+[2026-06-05 13:00:19] [INFO] [auth-service] User u2254 logged in
+[2026-06-05 13:00:57] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 13:01:17] [INFO] [auth-service] User u9075 logged in
+[2026-06-05 13:01:30] [WARNING] [auth-service] Rate limit approaching for client u3844
+[2026-06-05 13:02:13] [INFO] [auth-service] Health check passed
+[2026-06-05 13:03:03] [WARNING] [auth-service] Deprecated endpoint called by u6656
+[2026-06-05 13:03:58] [INFO] [auth-service] Cache hit for key=cache:86
+[2026-06-05 13:04:22] [WARNING] [auth-service] Memory usage at 98%
+[2026-06-05 13:04:50] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:05:25] [WARNING] [auth-service] Rate limit approaching for client u7451
+[2026-06-05 13:06:22] [INFO] [auth-service] Health check passed
+[2026-06-05 13:07:07] [INFO] [auth-service] Request processed successfully in 8812ms
+[2026-06-05 13:07:43] [ERROR] [auth-service] Authentication failed for user u6963: invalid token
+[2026-06-05 13:08:30] [INFO] [auth-service] User u3174 logged in
+[2026-06-05 13:08:57] [INFO] [auth-service] Request processed successfully in 6922ms
+[2026-06-05 13:09:53] [INFO] [auth-service] Cache hit for key=cache:15
+[2026-06-05 13:10:10] [INFO] [auth-service] Request processed successfully in 7815ms
+[2026-06-05 13:10:27] [INFO] [auth-service] Request processed successfully in 6017ms
+[2026-06-05 13:11:26] [INFO] [auth-service] Cache hit for key=cache:17
+[2026-06-05 13:12:18] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:12:48] [INFO] [auth-service] User u8989 logged in
+[2026-06-05 13:13:24] [INFO] [auth-service] Request processed successfully in 4248ms
+[2026-06-05 13:13:30] [ERROR] [auth-service] Database connection timeout after 8016ms
+[2026-06-05 13:13:53] [INFO] [auth-service] Cache hit for key=cache:50
+[2026-06-05 13:13:58] [INFO] [auth-service] Cache hit for key=cache:23
+[2026-06-05 13:14:50] [INFO] [auth-service] User u3425 logged in
+[2026-06-05 13:14:59] [WARNING] [auth-service] Retry attempt 5 for downstream call
+[2026-06-05 13:15:46] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:16:12] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:16:19] [WARNING] [auth-service] Rate limit approaching for client u6421
+[2026-06-05 13:17:05] [INFO] [auth-service] User u4328 logged in
+[2026-06-05 13:17:39] [WARNING] [auth-service] Rate limit approaching for client u6715
+[2026-06-05 13:18:11] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 13:18:38] [INFO] [auth-service] Request processed successfully in 2449ms
+[2026-06-05 13:18:43] [WARNING] [auth-service] Memory usage at 71%
+[2026-06-05 13:19:25] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 13:20:00] [WARNING] [auth-service] Rate limit approaching for client u7598
+[2026-06-05 13:20:59] [INFO] [auth-service] Health check passed
+[2026-06-05 13:21:28] [WARNING] [auth-service] Retry attempt 3 for downstream call
+[2026-06-05 13:21:41] [INFO] [auth-service] Cache hit for key=cache:81
+[2026-06-05 13:22:24] [CRITICAL] [auth-service] SSL certificate expired
+[2026-06-05 13:22:49] [WARNING] [auth-service] Deprecated endpoint called by u2696
+[2026-06-05 13:23:19] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 13:24:07] [INFO] [auth-service] Request processed successfully in 3564ms
+[2026-06-05 13:24:46] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:25:08] [WARNING] [auth-service] Response time 2561ms exceeds threshold
+[2026-06-05 13:25:19] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:25:45] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 13:26:31] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 13:27:05] [INFO] [auth-service] User u7998 logged in
+[2026-06-05 13:27:21] [WARNING] [auth-service] Retry attempt 2 for downstream call
+[2026-06-05 13:27:42] [WARNING] [auth-service] Memory usage at 98%
+[2026-06-05 13:28:11] [INFO] [auth-service] User u6534 logged in
+[2026-06-05 13:28:40] [ERROR] [auth-service] Authentication failed for user u2646: invalid token
+[2026-06-05 13:29:40] [INFO] [auth-service] User u8120 logged in
+[2026-06-05 13:30:24] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:30:35] [INFO] [auth-service] User u5012 logged in
+[2026-06-05 13:30:47] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 13:30:56] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:31:32] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:32:01] [CRITICAL] [auth-service] Data corruption detected in table=orders
+[2026-06-05 13:32:23] [WARNING] [auth-service] Memory usage at 93%
+[2026-06-05 13:32:51] [INFO] [auth-service] Request processed successfully in 7672ms
+[2026-06-05 13:33:38] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:33:53] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:33:59] [INFO] [auth-service] Request processed successfully in 7757ms
+[2026-06-05 13:34:41] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:35:19] [INFO] [auth-service] Health check passed
+[2026-06-05 13:35:35] [INFO] [auth-service] Cache hit for key=cache:73
+[2026-06-05 13:35:41] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:36:36] [INFO] [auth-service] Request processed successfully in 6056ms
+[2026-06-05 13:37:30] [INFO] [auth-service] Cache hit for key=cache:72
+[2026-06-05 13:37:45] [INFO] [auth-service] Request processed successfully in 3276ms
+[2026-06-05 13:38:03] [INFO] [auth-service] Cache hit for key=cache:36
+[2026-06-05 13:38:52] [INFO] [auth-service] User u1581 logged in
+[2026-06-05 13:39:50] [ERROR] [auth-service] Authentication failed for user u9721: invalid token
+[2026-06-05 13:40:11] [WARNING] [auth-service] Rate limit approaching for client u4656
+[2026-06-05 13:40:40] [INFO] [auth-service] Health check passed
+[2026-06-05 13:41:13] [INFO] [auth-service] Health check passed
+[2026-06-05 13:42:02] [INFO] [auth-service] Request processed successfully in 7335ms
+[2026-06-05 13:42:15] [INFO] [auth-service] User u5638 logged in
+[2026-06-05 13:42:28] [INFO] [auth-service] Health check passed
+[2026-06-05 13:42:34] [INFO] [auth-service] Cache hit for key=cache:91
+[2026-06-05 13:42:59] [INFO] [auth-service] Cache hit for key=cache:81
+[2026-06-05 13:43:48] [INFO] [auth-service] User u9616 logged in
+[2026-06-05 13:44:15] [INFO] [auth-service] User u4551 logged in
+[2026-06-05 13:44:25] [INFO] [auth-service] User u7846 logged in
+[2026-06-05 13:44:53] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:45:09] [WARNING] [auth-service] Deprecated endpoint called by u6085
+[2026-06-05 13:46:03] [INFO] [auth-service] Request processed successfully in 3921ms
+[2026-06-05 13:47:02] [INFO] [auth-service] Cache hit for key=cache:28
+[2026-06-05 13:47:58] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 13:48:56] [INFO] [auth-service] Request processed successfully in 6347ms
+[2026-06-05 13:49:28] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:49:35] [INFO] [auth-service] Health check passed
+[2026-06-05 13:49:49] [WARNING] [auth-service] Memory usage at 71%
+[2026-06-05 13:50:33] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 13:51:27] [INFO] [auth-service] Health check passed
+[2026-06-05 13:51:32] [CRITICAL] [auth-service] All DB replicas unreachable
+[2026-06-05 13:51:47] [INFO] [auth-service] User u5659 logged in
+[2026-06-05 13:52:15] [INFO] [auth-service] Config reloaded
+[2026-06-05 13:52:48] [INFO] [auth-service] User u5712 logged in
+[2026-06-05 13:53:39] [INFO] [auth-service] Cache hit for key=cache:68
+[2026-06-05 13:54:14] [INFO] [auth-service] User u8601 logged in
+[2026-06-05 13:54:34] [INFO] [auth-service] Health check passed
+[2026-06-05 13:55:23] [WARNING] [auth-service] Memory usage at 99%
+[2026-06-05 13:55:32] [INFO] [auth-service] Cache hit for key=cache:70
+[2026-06-05 13:55:48] [WARNING] [auth-service] Memory usage at 88%
+[2026-06-05 13:56:03] [INFO] [auth-service] User u4451 logged in
+[2026-06-05 13:56:38] [ERROR] [auth-service] Authentication failed for user u4440: invalid token
+[2026-06-05 13:57:28] [INFO] [auth-service] User u8934 logged in
+[2026-06-05 13:58:11] [INFO] [auth-service] Health check passed
+[2026-06-05 13:58:39] [WARNING] [auth-service] Memory usage at 99%
+[2026-06-05 13:59:23] [INFO] [auth-service] User u2248 logged in
+[2026-06-05 13:59:30] [INFO] [auth-service] User u3265 logged in
+[2026-06-05 14:00:16] [ERROR] [auth-service] Database connection timeout after 7881ms
+[2026-06-05 14:00:49] [INFO] [auth-service] Request processed successfully in 7811ms
+[2026-06-05 14:01:37] [WARNING] [auth-service] Rate limit approaching for client u6612
+[2026-06-05 14:02:23] [INFO] [auth-service] User u6858 logged in
+[2026-06-05 14:03:06] [INFO] [auth-service] User u1442 logged in
+[2026-06-05 14:04:01] [WARNING] [auth-service] Memory usage at 91%
+[2026-06-05 14:04:39] [INFO] [auth-service] User u3658 logged in
+[2026-06-05 14:05:15] [INFO] [auth-service] Health check passed
+[2026-06-05 14:05:55] [WARNING] [auth-service] Response time 2823ms exceeds threshold
+[2026-06-05 14:06:52] [INFO] [auth-service] Cache hit for key=cache:100
+[2026-06-05 14:07:43] [WARNING] [auth-service] Response time 2003ms exceeds threshold
+[2026-06-05 14:07:48] [INFO] [auth-service] Request processed successfully in 1371ms
+[2026-06-05 14:08:39] [WARNING] [auth-service] Memory usage at 73%
+[2026-06-05 14:08:57] [INFO] [auth-service] User u8034 logged in
+[2026-06-05 14:09:44] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 14:10:13] [INFO] [auth-service] User u4241 logged in
+[2026-06-05 14:11:11] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:11:36] [INFO] [auth-service] User u1862 logged in
+[2026-06-05 14:12:00] [INFO] [auth-service] Request processed successfully in 2013ms
+[2026-06-05 14:12:43] [INFO] [auth-service] Cache hit for key=cache:9
+[2026-06-05 14:12:50] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:13:22] [ERROR] [auth-service] Authentication failed for user u4887: invalid token
+[2026-06-05 14:14:00] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 14:14:27] [INFO] [auth-service] Health check passed
+[2026-06-05 14:15:22] [INFO] [auth-service] Request processed successfully in 8003ms
+[2026-06-05 14:16:07] [INFO] [auth-service] Health check passed
+[2026-06-05 14:16:50] [INFO] [auth-service] Health check passed
+[2026-06-05 14:17:05] [INFO] [auth-service] User u1522 logged in
+[2026-06-05 14:17:50] [INFO] [auth-service] Request processed successfully in 3156ms
+[2026-06-05 14:18:48] [ERROR] [auth-service] Authentication failed for user u6890: invalid token
+[2026-06-05 14:19:21] [ERROR] [auth-service] Authentication failed for user u1701: invalid token
+[2026-06-05 14:19:29] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 14:20:04] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 14:20:15] [INFO] [auth-service] Cache hit for key=cache:91
+[2026-06-05 14:20:49] [INFO] [auth-service] Request processed successfully in 2919ms
+[2026-06-05 14:21:23] [INFO] [auth-service] Health check passed
+[2026-06-05 14:22:13] [INFO] [auth-service] Request processed successfully in 3610ms
+[2026-06-05 14:22:42] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 14:22:59] [ERROR] [auth-service] Database connection timeout after 3707ms
+[2026-06-05 14:23:24] [INFO] [auth-service] User u8002 logged in
+[2026-06-05 14:23:45] [INFO] [auth-service] Request processed successfully in 1031ms
+[2026-06-05 14:24:17] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:24:47] [INFO] [auth-service] Cache hit for key=cache:47
+[2026-06-05 14:24:56] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:25:46] [WARNING] [auth-service] Rate limit approaching for client u4621
+[2026-06-05 14:26:41] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:27:38] [INFO] [auth-service] User u4183 logged in
+[2026-06-05 14:28:29] [INFO] [auth-service] Cache hit for key=cache:28
+[2026-06-05 14:28:44] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 14:29:28] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:30:11] [INFO] [auth-service] Cache hit for key=cache:41
+[2026-06-05 14:30:46] [INFO] [auth-service] Request processed successfully in 3438ms
+[2026-06-05 14:31:35] [INFO] [auth-service] Request processed successfully in 7467ms
+[2026-06-05 14:32:33] [INFO] [auth-service] Health check passed
+[2026-06-05 14:33:17] [WARNING] [auth-service] Retry attempt 5 for downstream call
+[2026-06-05 14:33:47] [INFO] [auth-service] User u5023 logged in
+[2026-06-05 14:34:39] [INFO] [auth-service] User u7544 logged in
+[2026-06-05 14:34:50] [WARNING] [auth-service] Retry attempt 4 for downstream call
+[2026-06-05 14:35:06] [INFO] [auth-service] Cache hit for key=cache:57
+[2026-06-05 14:35:25] [ERROR] [auth-service] Database connection timeout after 222ms
+[2026-06-05 14:36:21] [INFO] [auth-service] Request processed successfully in 8060ms
+[2026-06-05 14:37:16] [INFO] [auth-service] User u1410 logged in
+[2026-06-05 14:37:29] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:37:45] [INFO] [auth-service] Health check passed
+[2026-06-05 14:38:45] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:39:37] [INFO] [auth-service] User u5002 logged in
+[2026-06-05 14:40:01] [INFO] [auth-service] Request processed successfully in 2382ms
+[2026-06-05 14:40:50] [ERROR] [auth-service] Failed to connect to upstream service: ConnectionRefused
+[2026-06-05 14:41:16] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:41:51] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 14:42:27] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:43:13] [INFO] [auth-service] Health check passed
+[2026-06-05 14:43:48] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:44:08] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:45:04] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:45:36] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:45:45] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:46:42] [CRITICAL] [auth-service] Service crashed: out of memory
+[2026-06-05 14:47:15] [INFO] [auth-service] Health check passed
+[2026-06-05 14:48:12] [INFO] [auth-service] Health check passed
+[2026-06-05 14:48:58] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:49:31] [INFO] [auth-service] User u1217 logged in
+[2026-06-05 14:49:49] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:50:31] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:51:25] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:51:38] [INFO] [auth-service] Request processed successfully in 1976ms
+[2026-06-05 14:52:01] [WARNING] [auth-service] Deprecated endpoint called by u9940
+[2026-06-05 14:52:34] [WARNING] [auth-service] Rate limit approaching for client u2516
+[2026-06-05 14:52:42] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:52:52] [INFO] [auth-service] Health check passed
+[2026-06-05 14:53:26] [INFO] [auth-service] Cache hit for key=cache:32
+[2026-06-05 14:54:05] [WARNING] [auth-service] Retry attempt 1 for downstream call
+[2026-06-05 14:54:32] [INFO] [auth-service] Cache hit for key=cache:37
+[2026-06-05 14:55:05] [INFO] [auth-service] Request processed successfully in 5868ms
+[2026-06-05 14:55:59] [INFO] [auth-service] User u8607 logged in
+[2026-06-05 14:56:56] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 14:57:23] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:58:16] [ERROR] [auth-service] Disk write error: no space left on device
+[2026-06-05 14:58:54] [INFO] [auth-service] Config reloaded
+[2026-06-05 14:59:50] [INFO] [auth-service] Cache hit for key=cache:8
+[2026-06-05 15:00:18] [WARNING] [auth-service] Deprecated endpoint called by u9891
+[2026-06-05 15:00:48] [INFO] [auth-service] Cache hit for key=cache:47
+[2026-06-05 15:01:27] [WARNING] [auth-service] Deprecated endpoint called by u6235
+[2026-06-05 15:01:51] [INFO] [auth-service] User u3293 logged in
+[2026-06-05 15:02:46] [WARNING] [auth-service] Retry attempt 5 for downstream call
+[2026-06-05 15:03:14] [INFO] [auth-service] Cache hit for key=cache:10
+[2026-06-05 15:03:46] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 15:04:30] [INFO] [auth-service] User u6765 logged in
+[2026-06-05 15:04:54] [INFO] [auth-service] Request processed successfully in 8814ms
+[2026-06-05 15:05:46] [INFO] [auth-service] Cache hit for key=cache:62
+[2026-06-05 15:06:01] [ERROR] [auth-service] Unhandled exception in request handler: NullPointerException
+[2026-06-05 15:06:52] [INFO] [auth-service] Health check passed
+[2026-06-05 15:07:37] [INFO] [auth-service] Config reloaded
+[2026-06-05 15:07:43] [CRITICAL] [auth-service] All DB replicas unreachable
+[2026-06-05 15:08:22] [INFO] [auth-service] Cache hit for key=cache:43
+[2026-06-05 15:08:53] [ERROR] [auth-service] Authentication failed for user u7953: invalid token
+[2026-06-05 15:09:23] [INFO] [auth-service] Config reloaded
+[2026-06-05 15:09:46] [INFO] [auth-service] Health check passed
+[2026-06-05 15:10:24] [CRITICAL] [auth-service] All DB replicas unreachable
+[2026-06-05 15:10:46] [INFO] [auth-service] Health check passed
+[2026-06-05 15:11:14] [INFO] [auth-service] User u4630 logged in
+[2026-06-05 15:11:35] [INFO] [auth-service] User u1010 logged in
+[2026-06-05 15:11:47] [INFO] [auth-service] Request processed successfully in 8953ms
+[2026-06-05 15:12:15] [INFO] [auth-service] Config reloaded
+[2026-06-05 15:12:40] [INFO] [auth-service] Config reloaded
+[2026-06-05 15:12:46] [WARNING] [auth-service] Deprecated endpoint called by u5659
+[2026-06-05 15:12:54] [INFO] [auth-service] Request processed successfully in 1285ms
